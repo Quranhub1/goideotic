@@ -1139,6 +1139,8 @@ The best choice depends on your available tools, budget and access to customers.
 
 ## 53. Stocktake Sprint — paid inventory count and discrepancy report
 
+**Worldwide research dossier:** [Existing projects, technical approaches, materials/tools, prototype sequence, test plan, and source links](IDEA_53_WORLDWIDE_RESEARCH.md).
+
 **Problem:** Owners may suspect missing stock or unreliable records but do not have time to count everything accurately.
 
 **Offer and workflow:** Visit a small shop or storeroom, agree the scope, count items with the owner or staff, record quantities in a spreadsheet or simple form, flag discrepancies and produce a dated baseline report. The first version is a service, not an app. Offer a follow-up count to measure change. Do not accuse staff of theft based on a discrepancy; miscounts, returns and recording errors can explain differences.
