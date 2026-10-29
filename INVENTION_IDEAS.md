@@ -573,3 +573,267 @@ Copy this for any new concept:
 - **Decision:** Explore / Prototype / Validate / Pause
 
 *Safety note:* Any product involving mains electricity, LPG, pumps, batteries, medical/pharmaceutical storage, water safety or security-critical functions needs appropriately qualified design and testing. A concept description is not a substitute for a safety review.
+
+
+---
+
+# Additional Invention Batch — Ideas 23–37
+
+These concepts extend the notebook. They are deliberately scoped around specific customer problems and small first experiments. Names are working titles, not trademark-clearance results.
+
+## 23. ShopStock Sentinel — low-stock and expiry assistant
+
+**Problem:** Small shops often discover that fast-moving items have run out or that stock has expired.
+
+**How it works:** A lightweight phone or desktop app records incoming stock, sales, expiry dates and reorder thresholds. It can work offline, support barcode/QR scanning, and print or export a daily list of items to reorder or sell first. A later version could add a cheap shelf button or scanner, but the MVP should not require custom hardware.
+
+**Customers:** Pharmacies (only for inventory workflow, not clinical decisions), mini-markets, cosmetics shops, agro-input sellers and spare-parts dealers.
+
+**Revenue:** One-time setup fee, monthly per-shop subscription, data import and support.
+
+**Pros:** Low-cost software prototype; clear business value if it prevents stockouts and waste; recurring revenue is possible.
+
+**Cons/risks:** Many POS/inventory competitors; staff must enter transactions consistently; product data and expiry tracking can be tedious. Regulated stock may need specific recordkeeping.
+
+**MVP and test:** Start with one shop and 50–100 products. Track stock discrepancies, expiry losses and time spent preparing reorder lists for four weeks. Ask for payment only after the owner sees a measurable benefit.
+
+## 24. PowerCut Diary — outage and appliance interruption logger
+
+**Problem:** Households and businesses may not know how often outages occur, how long they last, or which interruptions affect operations.
+
+**How it works:** A safe, isolated power-presence sensor records when supply disappears and returns. A battery-backed clock stores events locally; an optional dashboard summarizes outage frequency and duration. The first version records only whether power is present, not dangerous mains waveforms.
+
+**Customers:** Shops, internet cafés, small offices, landlords and businesses considering backup power.
+
+**Revenue:** Sell a logger; charge for installation, reports or fleet monitoring.
+
+**Pros:** Simple value proposition; helps customers size backup power using evidence rather than guesses.
+
+**Cons/risks:** Existing loggers and UPS software; a log does not itself prevent outages. Mains-connected designs require qualified electrical engineering and appropriate isolation.
+
+**MVP and test:** Prototype with a certified low-voltage sensing module or isolated commercial adapter. Compare logs with manual records at three sites, then ask whether the report changes a real purchasing or operating decision.
+
+## 25. DrainGuard — early warning for blocked drains
+
+**Problem:** Shops, apartment blocks and food businesses may only notice a drain blockage after water backs up.
+
+**How it works:** A sensor in an accessible inspection point monitors water level or rate of rise and triggers a local alert when a threshold is exceeded. A remote alert is optional; the design should allow easy cleaning and should not obstruct the drain.
+
+**Customers:** Property managers, restaurants, schools, workshops and landlords.
+
+**Revenue:** Device sales, installation, scheduled maintenance and multi-site monitoring.
+
+**Pros:** Preventive maintenance angle; potential to sell through plumbers and property managers.
+
+**Cons/risks:** Grease, debris, corrosion and false alarms can degrade sensors; every drain geometry differs. Installation must not create a blockage or expose electronics to sewage.
+
+**MVP and test:** Build a non-invasive level-alert prototype for one defined type of drain and test it in a controlled water rig before any field deployment. Interview maintenance staff about the cost and frequency of backups.
+
+## 26. RefillRight — reusable container and refill tracking
+
+**Problem:** Small refill businesses can lose reusable bottles, forget deposits, or struggle to track which containers belong to customers.
+
+**How it works:** Each reusable container gets a durable QR code or tag. Staff scan it when issued, returned, cleaned and refilled. The system tracks deposits and outstanding containers and can print a simple receipt. It does not claim to verify chemical purity or sanitation.
+
+**Customers:** Water refill stations, cleaning-product refill shops, caterers and small beverage producers.
+
+**Revenue:** Setup, label kits, receipt printing, and optional per-location software subscription.
+
+**Pros:** Can start with QR labels and a phone; helps reduce container loss; may support repeat customer relationships.
+
+**Cons/risks:** Staff compliance is essential; labels can wear off; existing POS systems may add similar features. Food-contact and chemical-container cleaning requirements remain separate.
+
+**MVP and test:** Track 100 containers at one refill shop for a month and compare lost-container rate and reconciliation time with the previous process.
+
+## 27. SafeRoute School — offline school pickup verification
+
+**Problem:** Schools need a dependable way to record which authorized adult collected a child, particularly when internet access is unreliable.
+
+**How it works:** Staff use an offline roster with role-based access, record a pickup event, and optionally verify a school-issued code or photo ID according to school policy. The system synchronizes when online. It must not rely on facial recognition as the sole verification method.
+
+**Customers:** Schools, childcare centres and after-school programs.
+
+**Revenue:** Setup and training, annual school licence, support and optional approved hardware.
+
+**Pros:** Offline-first software; clear workflow; can pilot without manufacturing devices.
+
+**Cons/risks:** Highly sensitive child data, privacy obligations, lost devices, staff mistakes and safeguarding policies. A digital log does not replace identity checks or school procedures.
+
+**MVP and test:** Prototype with synthetic data first. Consult school leaders and parents, define access controls and retention rules, and run a supervised pilot only after privacy and safeguarding review.
+
+## 28. Repair Passport — service history for household equipment
+
+**Problem:** Owners and repairers often lose receipts, part details, warranty dates and repair history.
+
+**How it works:** A QR label on a device opens a private record containing model, purchase date, repair events, parts used and maintenance reminders. Owners choose what to share with a technician; sensitive details are not public by default.
+
+**Customers:** Appliance repair shops, landlords, equipment rental firms and households.
+
+**Revenue:** Repair-shop subscription, printed QR label kits, data migration and branded customer portals.
+
+**Pros:** Software-first, low startup cost; could help repair shops retain customers and reduce repeated diagnostic work.
+
+**Cons/risks:** Customers may not maintain records; privacy and account recovery matter; manufacturer warranty systems may not integrate.
+
+**MVP and test:** Partner with two repair shops and log 100 service jobs. Measure repeat visits, time to retrieve past repair information and customer engagement with reminders.
+
+## 29. QueuePulse — wait-time display for small service counters
+
+**Problem:** Customers may leave or repeatedly ask staff how long a queue will take.
+
+**How it works:** A local tablet or simple counter records arrivals and service starts, then estimates wait time from recent service durations. Staff can correct the estimate. It works without cloud access and shows a range when data is sparse.
+
+**Customers:** Clinics, salons, repair shops, pharmacies and public service desks.
+
+**Revenue:** Per-site setup, monthly support, optional display hardware and customization.
+
+**Pros:** Can be built from existing hardware; easy to pilot; improves transparency.
+
+**Cons/risks:** Wait estimates are uncertain; staff must use it consistently; privacy is important in health settings. Competes with queue-management products.
+
+**MVP and test:** Run for two weeks at one counter and compare customer complaints, abandoned queues and staff interruptions against a baseline.
+
+## 30. FarmDry Coach — grain-drying progress assistant
+
+**Problem:** Small grain handlers may store grain before it is adequately dried, increasing spoilage risk.
+
+**How it works:** A guided tool records crop type, drying method, ambient conditions and readings from an appropriate moisture meter. It gives crop-specific guidance and flags when a reading is outside the selected target. It should not infer safe moisture content from air humidity alone.
+
+**Customers:** Farmer groups, grain traders, small mills and cooperatives.
+
+**Revenue:** Sell or rent a suitable moisture meter with recordkeeping software; training and seasonal support.
+
+**Pros:** Direct link to post-harvest loss reduction; possible group or cooperative sales.
+
+**Cons/risks:** Crop-specific calibration and representative sampling matter; established moisture meters already exist; poor advice can cause serious storage losses.
+
+**MVP and test:** Work with an agricultural extension specialist and one crop. Compare readings with a reference method across multiple batches before providing decision guidance.
+
+## 31. QuietHours — noise-event logger for venues
+
+**Problem:** Venues and property managers may receive noise complaints without objective records of when the issue occurs.
+
+**How it works:** A local device records sound-level estimates and timestamps, not speech recordings. It shows trends and threshold events. A calibrated version would need a suitable microphone, acoustic calibration and clear limits on measurement accuracy.
+
+**Customers:** Event venues, apartment managers, workshops and facilities teams.
+
+**Revenue:** Device rental, monitoring reports and installation.
+
+**Pros:** Privacy-preserving design can differentiate it from audio recording; useful for identifying recurring patterns.
+
+**Cons/risks:** Phone microphones and cheap sensors may not provide legally defensible measurements. Noise limits vary by location and context; legal disputes require appropriate calibrated equipment.
+
+**MVP and test:** Build a trend logger and compare it with a calibrated sound-level meter. Do not market it as legal evidence unless independently validated for that purpose.
+
+## 32. ToolTime — maintenance reminders for shared machines
+
+**Problem:** Generators, pumps, compressors and workshop machines may be serviced late because run hours are not recorded.
+
+**How it works:** A sensor or operator-entered counter tracks operating hours. The app schedules maintenance based on the manufacturer's instructions and stores service records. It warns about overdue maintenance but does not replace a qualified inspection.
+
+**Customers:** Workshops, farms, rental businesses, schools and small factories.
+
+**Revenue:** Sensor kit, installation, fleet subscription and service-provider partnerships.
+
+**Pros:** Repeatable B2B need; recurring software revenue; can begin with manual logging before adding sensors.
+
+**Cons/risks:** Existing fleet maintenance tools; inaccurate inputs; equipment-specific maintenance schedules and sensor installation challenges.
+
+**MVP and test:** Choose one machine category and track 10 machines. Measure missed service intervals and admin time before and after adoption.
+
+## 33. MarketBasket — local price and availability notebook for traders
+
+**Problem:** Small traders may make buying decisions with incomplete information about wholesale prices, transport costs and stock availability.
+
+**How it works:** A simple mobile tool records dated quotes from suppliers, quantity, quality grade, transport and payment terms. It compares the *landed cost* rather than just the headline price. Community-shared quotes are labelled with date and source confidence.
+
+**Customers:** Small retailers, restaurants, produce traders and buying groups.
+
+**Revenue:** Premium reports, supplier listings with clear disclosure, group subscriptions or procurement support.
+
+**Pros:** Software-first; helps compare total cost; can start in one market and one product category.
+
+**Cons/risks:** Prices change quickly; unverified submissions can be misleading; users may be reluctant to share supplier information. Avoid implying that crowdsourced prices are guaranteed.
+
+**MVP and test:** Focus on one category in one market. Collect quotes from multiple vendors daily for a month and interview buyers about whether the comparison changes purchasing decisions.
+
+## 34. Offline First-Aid Reference Station
+
+**Problem:** Some workplaces and community venues need quick access to approved first-aid instructions when internet service is unavailable.
+
+**How it works:** A kiosk or local web app presents content reviewed by a recognized first-aid organization, with large text, clear emergency escalation instructions and local emergency contacts. Content is versioned and reviewed for updates. It must not diagnose conditions or delay emergency care.
+
+**Customers:** Schools, factories, sports venues, community centres and workplaces.
+
+**Revenue:** Installation, annual content-maintenance contract, training partnerships and support.
+
+**Pros:** Offline accessibility; potential institutional customers; can run on existing tablets or computers.
+
+**Cons/risks:** Medical guidance must be authoritative, current and locally appropriate; content errors could harm users. Requires expert review and clear emergency limitations.
+
+**MVP and test:** Do not author medical guidance independently. Partner with a qualified first-aid organization and test usability with supervised scenarios before deployment.
+
+## 35. ReturnablePack — reusable delivery packaging deposit system
+
+**Problem:** Small food and retail delivery operators may lose reusable bags, crates or insulated boxes.
+
+**How it works:** Each package receives a QR code or durable tag. Staff scan dispatch and return events, record deposits and identify overdue items. A simple dashboard shows return rates by customer route or business partner.
+
+**Customers:** Caterers, grocery delivery services, bakeries, event suppliers and local distributors.
+
+**Revenue:** Software setup, tag kits, reusable packaging supply and subscription.
+
+**Pros:** Low-cost software MVP; helps quantify packaging loss; can be sold as an operational improvement.
+
+**Cons/risks:** Requires partner cooperation; cleaning and food-contact safety are separate obligations; scanning steps can slow delivery if poorly designed.
+
+**MVP and test:** Pilot with 50–100 reusable packages and one delivery partner. Measure return rate, replacement cost and staff time.
+
+## 36. CableMap — building cable and network-port labeller
+
+**Problem:** Technicians lose time tracing unlabeled network, CCTV and low-voltage cables during repairs.
+
+**How it works:** A labeling workflow creates consistent IDs, printable labels, rack/room diagrams and a searchable record of cable endpoints. A later hardware tester can verify continuity for supported cable types, but the first version can be software plus a label printer.
+
+**Customers:** IT support firms, schools, offices, CCTV installers and small data rooms.
+
+**Revenue:** Site survey and documentation, label kits, installation service and annual update contracts.
+
+**Pros:** Low initial capital; solves a concrete time-wasting problem; can be bundled with network maintenance.
+
+**Cons/risks:** Documentation becomes stale when changes are not recorded; existing network documentation tools; cable testing hardware increases cost.
+
+**MVP and test:** Offer a fixed-price labeling and documentation service to three sites, then productize the most repeated workflow.
+
+## 37. AccessibleForms — offline form-filling assistant
+
+**Problem:** People may struggle to complete complex forms on a phone due to small text, unfamiliar terms, language barriers or unreliable connectivity.
+
+**How it works:** A guided interface explains each field in plain language, supports large text and screen readers, saves drafts locally with encryption, and exports a completed form for the user to review. It must not fabricate answers, submit without consent or promise eligibility for a service.
+
+**Customers:** NGOs, schools, clinics, community service organizations and businesses that collect applications.
+
+**Revenue:** Organization licences, setup/customization, accessibility audits and support.
+
+**Pros:** Software-first; can be adapted to specific workflows; accessibility can be a meaningful differentiator.
+
+**Cons/risks:** Sensitive personal data, changing forms, translation quality and legal responsibility. Offline storage requires careful device security and deletion controls.
+
+**MVP and test:** Choose one non-sensitive form with a partner organization. Test completion time, error rate and accessibility with real users and obtain informed consent.
+
+---
+
+## Quick shortlist: best candidates for a low-cost first test
+
+These are preliminary judgments based on prototype simplicity, not proven demand.
+
+| Candidate | Why it is a good first experiment | Cheapest credible first test |
+|---|---|---|
+| **Repair Passport** | No custom hardware needed | QR-linked service records with one repair shop |
+| **ShopStock Sentinel** | Clear operational pain and repeat use | Offline stock/expiry tracker in one shop |
+| **CableMap** | Can begin as a paid service before software development | Label and document one small site |
+| **MarketBasket** | Can start with structured data collection | Track one product category and test buyer decisions |
+| **ReturnablePack** | Easy to measure lost-item cost | QR tracking for one delivery partner |
+| **ToolTime** | Manual logging can validate demand before sensors | Track service hours for 10 machines |
+
+**Selection rule:** Prefer an idea where you can speak to five real buyers this week, test the workflow with existing tools, and measure a result within 30 days. Avoid spending heavily on custom electronics until customers demonstrate that they will pay for the outcome.
