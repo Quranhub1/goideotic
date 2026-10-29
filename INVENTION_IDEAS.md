@@ -990,6 +990,236 @@ Copy this for any new concept:
 
 ---
 
+## 41. Pop-up barber and salon service
+
+**Concept:** A mobile barber and salon service that travels to markets, offices, and events, offering haircuts and styling by appointment.
+
+**How it works**
+- A barber or stylist travels with a portable kit (chair, clippers, mirror, towels, products).
+- Customers book a time slot by phone, SMS, or in person.
+- Services are performed at the customer's home, office, or a designated pop-up spot.
+- Payment is cash or mobile money per service; packages for regular clients.
+- A schedule and customer list track bookings, repeat visits, and preferred styles.
+
+**Customers:** Office workers, market vendors, event attendees, students, households.
+
+**Revenue:** Per-service fee, package subscriptions, travel surcharge, product sales.
+
+**Pros:** Convenience is the selling point; low overhead; recurring clients; no shop rent.
+
+**Cons and risks:** Weather dependence for outdoor setups, equipment transport, competition from barbershops, licensing, hygiene and tool sterilization.
+
+**First prototype:** Offer services to 5–10 regular clients at one office or market for one month; track bookings, revenue per visit, and repeat rate.
+
+---
+
+## 42. Second-hand clothes (mitumba) sorting and resale stall
+
+**Concept:** Buy bales of second-hand clothes, sort by grade and type, and resale at a stall or online with clear pricing.
+
+**How it works**
+- Purchase graded bales from wholesalers or markets.
+- Sort items by quality (grade A, B, C), type, and size.
+- Price and tag each item; display at a stall or sell via WhatsApp/Instagram.
+- Unsold lower-grade items are bundled into discount packs.
+- Records track cost per bale, sell-through rate, and best-selling categories.
+
+**Customers:** Shoppers seeking affordable clothing, resellers, market traders.
+
+**Revenue:** Markup on sorted clothes, bundle sales, wholesale to smaller traders.
+
+**Pros:** High demand for affordable clothes; low starting inventory; fast inventory turnover.
+
+**Cons and risks:** Variable bale quality, seasonal demand, storage space, competition, hygiene concerns, import regulations on second-hand clothing.
+
+**First prototype:** Buy one bale, sort and sell at one stall for two weeks; track sell-through rate, profit per item, and best categories.
+
+---
+
+## 43. Community biogas digester for cooking fuel
+
+**Concept:** A small biogas digester that converts kitchen and farm waste into cooking gas for households or small institutions.
+
+**How it works**
+- A digester tank receives food waste, animal dung, and water.
+- Anaerobic digestion produces biogas stored in a flexible bag or fixed dome.
+- Gas is piped to a kitchen stove for cooking.
+- Slurry residue is used as fertilizer.
+- Households pay for installation and a small refill/maintenance fee; gas is free after setup.
+
+**Customers:** Households with livestock, schools, small restaurants, farms.
+
+**Revenue:** Digester installation fee, maintenance contract, stove sale, fertilizer slurry sale.
+
+**Pros:** Free cooking fuel after installation; reduces firewood/charcoal cost; produces fertilizer; environmentally positive.
+
+**Cons and risks:** High upfront cost, regular feedstock required, gas pressure variability, safety (gas leaks), technical skill to build and maintain.
+
+**First prototype:** Build one small digester at one household or school; measure gas output, cooking hours per day, and maintenance needs over one month.
+
+---
+
+## 44. Phone-screen protector and accessory vending machine
+
+**Concept:** A small vending or counter display that sells phone screen protectors, cases, chargers, and earphones at markets and transport hubs.
+
+**How it works**
+- A lockable cabinet or counter stand holds accessories organized by phone model.
+- Customers pay cash or mobile money and take an item.
+- A simple ledger or app tracks stock levels and sales per item.
+- Fast-moving items are restocked weekly from wholesale suppliers.
+- Optional on-the-spot screen protector application service.
+
+**Customers:** Phone owners at markets, bus stations, shopping centers.
+
+**Revenue:** Accessory markup, screen-protector application fee, bulk resale to small shops.
+
+**Pros:** Impulse purchases; low price point; high foot-traffic locations; small space needed.
+
+**Cons and risks:** Theft, damage, counterfeit accessories, model-specific inventory, competition from street vendors.
+
+**First prototype:** Set up one counter display at one market with 20–30 items; track daily sales and restock needs for two weeks.
+
+---
+
+## 45. Poultry vaccination and health record service
+
+**Concept:** A mobile vaccination and record-keeping service for small poultry farmers, tracking vaccination dates and flock health.
+
+**How it works**
+- A trained vaccinator visits farms on a schedule to administer vaccines.
+- Each flock gets a record card or app entry with bird count, vaccine type, and date.
+- Reminders are sent by SMS for the next vaccination or deworming.
+- Farmers pay per bird or per flock visit; records help prove vaccination for sales.
+- Mortality and production data are tracked to advise on flock health.
+
+**Customers:** Small and medium poultry farmers, backyard chicken keepers.
+
+**Revenue:** Per-bird vaccination fee, per-flock visit fee, record-keeping subscription, vet referral fee.
+
+**Pros:** Reduces flock losses; farmers value healthy birds; repeat business every flock cycle.
+
+**Cons and risks:** Vaccine cold-chain, proper administration technique, farmer trust, seasonal flock cycles, competition from government or NGO programs.
+
+**First prototype:** Vaccinate 3–5 small flocks for one cycle; track birds vaccinated, mortality before/after, and farmer willingness to pay.
+
+---
+
+## 46. Tailoring and alteration subscription for uniforms
+
+**Concept:** A tailoring service that makes and repairs school uniforms, work uniforms, and clothes on a subscription or contract basis.
+
+**How it works**
+- Schools, companies, or groups place bulk uniform orders each term or year.
+- Tailors take measurements, sew, and deliver uniforms on schedule.
+- Alteration and repair service is offered for individual customers.
+- A subscription model offers regular mending for households or staff.
+- Records track orders, sizes, delivery dates, and repair history.
+
+**Customers:** Schools, companies, households, uniform wearers.
+
+**Revenue:** Per-uniform fee, bulk contract, alteration fee, subscription mending.
+
+**Pros:** Recurring term/yearly orders; steady demand; local tailoring already exists but often unreliable.
+
+**Cons and risks:** Sizing errors, delivery delays, fabric quality, competition from ready-made clothes, seasonal order concentration.
+
+**First prototype:** Sew and deliver uniforms for one school class or one small company; track fit, delivery time, and reorder rate.
+
+---
+
+## 47. Cereal milling and packaging service
+
+**Concept:** A milling service that grinds maize, millet, or sorghum into flour and packages it in branded or plain bags for sale or home use.
+
+**How it works**
+- Customers bring grain to a mill or have it collected.
+- The mill grinds to a chosen fineness and packages in labeled bags.
+- Milling is charged per kilogram or per bag; packaging is optional extra.
+- Branded flour can be sold to shops and restaurants.
+- Records track grain in, flour out, and milling revenue per customer.
+
+**Customers:** Households, small shops, restaurants, schools.
+
+**Revenue:** Per-kg milling fee, packaging fee, branded flour sale.
+
+**Pros:** Staple food need is constant; milling equipment is proven; value-add from packaging.
+
+**Cons and risks:** Grain quality variation, machine maintenance, electricity or diesel cost, competition from existing mills, food-safety standards for packaged flour.
+
+**First prototype:** Mill and package grain for 10–20 customers for one month; track kg milled, revenue per kg, and customer return rate.
+
+---
+
+## 48. Goat and sheep fattening and sale service
+
+**Concept:** A service that buys young goats or sheep, fattens them on feed and forage, and sells them at peak weight for meat or festivals.
+
+**How it works**
+- Young animals are purchased from farmers or markets.
+- They are housed and fed a fattening ration with clean water and veterinary care.
+- Weight is tracked weekly; animals are sold at target weight.
+- Customers include butchers, households, and festival buyers.
+- Records track purchase cost, feed cost, weight gain, and sale price per animal.
+
+**Customers:** Butchers, meat traders, households, festival buyers.
+
+**Revenue:** Sale margin per animal, feeding and housing fee for customer-owned animals.
+
+**Pros:** Demand spikes around holidays and festivals; animals appreciate in value; low technology needed.
+
+**Cons and risks:** Animal disease, mortality, feed cost and availability, market price fluctuation, theft, space and housing.
+
+**First prototype:** Buy and fatten 5–10 goats for one cycle; track weight gain, feed cost, mortality, and sale margin vs. purchase price.
+
+---
+
+## 49. Water purification and refill station
+
+**Concept:** A water purification station that sells clean drinking water by the liter or in refillable containers.
+
+**How it works**
+- Raw water is filtered and treated (filtration, UV or chlorine) to safe drinking standards.
+- Customers bring containers for refilling or buy sealed bottles.
+- Water is sold by the liter via cash or mobile money.
+- A log tracks liters sold, filter changes, and water-quality tests.
+- Regular water-quality testing is recorded and posted for customer confidence.
+
+**Customers:** Households, shops, offices, small restaurants.
+
+**Revenue:** Per-liter refill fee, bottle sale, container deposit, delivery fee.
+
+**Pros:** Daily recurring need; affordable alternative to bottled water; scalable with more stations.
+
+**Cons and risks:** Water-quality consistency, equipment maintenance, power for pumps/UV, container hygiene, competition from sachet and bottled water.
+
+**First prototype:** Run one refill station for one month; track liters sold, cost per liter, water-test results, and customer retention.
+
+---
+
+## 50. Local-language job and gig board for informal workers
+
+**Concept:** A simple job board (USSD, SMS, or app) connecting informal workers (carpenters, masons, cleaners, drivers) with short-term gigs in their area.
+
+**How it works**
+- Workers register with skills, location, and availability via phone.
+- Employers post gigs (one-day jobs, short contracts) by phone or web.
+- Matches are sent by SMS or voice message to available workers.
+- Workers confirm and complete the job; payment is cash or mobile money.
+- Ratings on both sides build trust; a small fee is taken per completed gig.
+
+**Customers:** Informal workers, households, small businesses, contractors.
+
+**Revenue:** Per-gig commission, worker subscription, featured listing fee.
+
+**Pros:** High informal labor demand; workers need steady gigs; works on basic phones.
+
+**Cons and risks:** Payment disputes, quality of work, no-shows, safety, trust, existing word-of-mouth hiring is free.
+
+**First prototype:** Run a SMS-based board for one trade (e.g., carpenters) in one neighborhood for one month; track gigs posted, matches made, and completions.
+
+---
+
 ## Updating the comparison table
 
 Add these rows to the comparison table when prioritizing:
@@ -1014,3 +1244,13 @@ Add these rows to the comparison table when prioritizing:
 | Pharmacy expiry alert system | Low | Low–medium | Subscription + setup |
 | Bicycle repair subscription | Low | Low–medium | Subscription + parts |
 | Solar mini-grid prepaid meter | Medium–high | High | Meter + per-unit margin |
+| Pop-up barber and salon | Low | Low | Per-service + packages |
+| Mitumba sorting and resale | Low | Low | Markup + bundles |
+| Biogas digester | Medium–high | Medium | Installation + maintenance |
+| Phone-accessory vending | Low | Low | Markup + application fee |
+| Poultry vaccination service | Low | Low–medium | Per-bird + visit fee |
+| Uniform tailoring subscription | Low | Low | Per-uniform + contract |
+| Cereal milling and packaging | Medium | Low–medium | Per-kg milling + packaging |
+| Goat/sheep fattening service | Medium | Medium | Sale margin + feeding fee |
+| Water purification refill | Medium–high | Medium | Per-liter refill + bottles |
+| Local-language gig board | Low | Low | Per-gig commission + subscription |
