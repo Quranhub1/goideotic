@@ -1703,6 +1703,241 @@ Copy this for any new concept:
 
 ---
 
+## 56. Solar phone charging kiosk
+
+**Concept:** A solar-powered phone-charging kiosk at markets, bus stations, or off-grid villages where customers pay a small fee to charge their phones and small devices.
+
+**How it works**
+- A solar panel array charges batteries connected to multiple charging ports/cables.
+- Customers drop off phones or wait at the kiosk; charge by the phone or by time (e.g., KSh 30–100 per charge).
+- Multiple cable types (USB-C, micro-USB, Lightning) stocked to fit most phones.
+- Lockable cabinet or supervised counter to keep phones secure while charging.
+- Operates off-grid; solar panel and battery sized for daily demand.
+- Optional add-ons: airtime sales, phone accessory sales, lamp rental.
+
+**Customers:** Phone owners at markets, bus stations, off-grid villages, boda-boda riders.
+
+**Revenue:** Per-charge fee, airtime/data margin, accessory sales, optional lamp/phone rental.
+
+**Pros:** No grid power needed; recurring daily customers; low operating cost after setup; works anywhere with sun.
+
+**Cons and risks:** Theft of phones/cables, battery wear and replacement, weather-dependent charging, competition from grid-powered shops, low per-charge revenue requires high volume.
+
+**First prototype:** Set up one solar charging station with 10–20 ports at one market or bus stage; track daily charges, revenue per charge, and downtime for one month.
+
+### Research data (as of 2026)
+
+**Market evidence:** Solar phone-charging kiosks are a proven off-grid micro-business in East Africa. ARED (Rwanda/Burundi) franchises solar charging kiosks — franchisees pay US$350–500 upfront plus US$45/month service fee; kiosks charge up to 20 phones at once and can also sell airtime and electricity. Juabar (Tanzania) builds solar charging wagons charging up to 20 phones; franchisees ("Juapreneurs") charge TSh 300–500 (~US$0.16–0.26) per phone and pay TSh 80,000 (~US$43.50)/month franchise fee; target is for entrepreneurs to earn double the franchise fee. Nigeria phone-charging guides: basic generator setup ₦50k–80k handles 20–40 phones; solar setup ₦150k–300k eliminates fuel cost and pays back in 3–6 months. Cost per charge typically US$0.1–0.5; monthly subscription models US$1.6–9 exist in some markets.
+
+**Requirements:** Solar panels (200W–800W depending on port count), deep-cycle batteries, charge controller (MPPT), inverter, multiple charging cables/ports, lockable cabinet or supervised counter, secure location with sun exposure, phone security process (claim tickets or supervised waiting), cash/mobile-money collection, battery replacement plan.
+
+**Estimated budget:** Lean generator setup: ₦50k–80k (Nigeria) or KSh 50k–150k. Solar setup: ₦150k–300k or KSh 100k–250k. ARED franchise: US$350–500 + US$45/month. Juabar kiosk install: ~US$600.
+
+**Competitors and prior art:** ARED (Rwanda/Burundi franchise), Juabar (Tanzania), local phone-charging shops (grid-powered), roadside phone chargers with car batteries. Differentiation: solar (no fuel cost, silent), off-grid operation, airtime/accessory add-ons, franchise/support model.
+
+**Revenue model:** Per-charge fee (e.g., KSh 30–100 or TSh 300–500), airtime/data commission, accessory sales, optional daily/monthly subscription.
+
+**Risk mitigation:** Claim tickets or supervised charging to prevent phone theft; quality batteries with replacement fund; multiple cable types; location with high foot traffic and sun; diversify with airtime/accessory sales.
+
+**Next experiment:** Set up one solar charging station with 10–20 ports at one market or bus stage; track daily charges, revenue per charge, battery life, and downtime for one month.
+
+---
+
+## 57. Animal feed production and supply
+
+**Concept:** Produce and sell compound poultry and livestock feed (mash or pellets) from locally sourced ingredients (maize, soybean meal, fish meal, groundnut cake, bran, premix) to smallholder farmers.
+
+**How it works**
+- Source raw ingredients (maize, soya, bran, fish meal, premix) from wholesale markets or farmers.
+- Grind, mix, and (optionally) pelletize into balanced feed formulations for broilers, layers, pigs, or fish.
+- Package in 25kg or 50kg bags; label with formulation and target animal.
+- Sell directly to farmers, agro-dealers, or via delivery; offer feed formulation advice.
+- Track ingredient costs, production volume, and customer feedback; adjust formulations for cost and quality.
+
+**Customers:** Smallholder poultry farmers, pig farmers, fish farmers, agro-dealers, small commercial farms.
+
+**Revenue:** Per-kg or per-bag feed sale, formulation consulting, delivery fee, branded packaging premium.
+
+**Pros:** Feed is the largest recurring cost for livestock farmers; steady demand; local ingredients reduce import dependence; pelletized feed commands premium; scalable from small mill to brand.
+
+**Cons and risks:** Ingredient price volatility (maize/soya), aflatoxin contamination, machine breakdown, cash-flow squeeze from farmer credit, regulatory registration (NAFDAC/KEBS), competition from established brands.
+
+**First prototype:** Grind and mix feed for 5–10 local poultry farmers for one cycle; track ingredient cost per kg, sale price per kg, farmer feedback on bird performance, and repeat orders.
+
+### Research data (as of 2026)
+
+**Market evidence:** Feed is ~60–70% of poultry production cost; farmers actively seek cheaper local alternatives. Small feed mills (100–300 kg/day) need KES 285k–430k CAPEX (Kenya); small mill (500–1,000 kg/day) needs KES 1.45M–1.85M; break-even 6–14 months. Nigeria entry-level hammer mill + mixer: ₦600k–1.5M; ₦800k–2.5M for hammer mill + pelletiser. Feed business supplying 10 poultry farms can earn ₦500k–1.5M monthly gross profit. Pelleted feed commands ₦50–100/kg premium over mash. Local feed can be ~34% cheaper than imported concentrates. NAFDAC registration required before commercial sale in Kenya/Uganda/Nigeria; KEBS certification for quality.
+
+**Requirements:** Hammer mill/grinder, feed mixer, optional pelletiser, weighing scale, storage bags and sealing machine, dry pest-proof storage, ingredient sourcing relationships, feed formulation knowledge (broiler/layer/fish/pig), NAFDAC/KEBS registration, vehicle or delivery arrangement, PPE and hygiene.
+
+**Estimated budget:** Micro/tolling mill (100–300 kg/day): KES 285k–430k or ₦800k–1.5M. Small mill (500–1,000 kg/day): KES 1.45M–1.85M or ₦1M–3.13M equipment. Working capital for ingredients. Lean start: hammer mill + mixer only, supplying 5–10 farmers.
+
+**Competitors and prior art:** Established feed brands (Hybrid Feeds, Farm Support, Agriquest in Nigeria), commercial feed mills, agro-dealers reselling branded feed, informal home mixers. Differentiation: local cheaper formulations, pelletized feed premium, direct farmer relationships, formulation advice, credit terms.
+
+**Revenue model:** Per-kg or per-bag feed sale, pellet premium, delivery fee, formulation consulting, branded packaging.
+
+**Risk mitigation:** Test ingredients for aflatoxin; forward contracts with millers; 15-day ingredient stock; 50% deposit / max 14-day farmer credit; maintain spare parts; join feed millers association for advocacy.
+
+**Next experiment:** Produce and supply feed to 5–10 local poultry farmers for one cycle; track cost per kg, sale price per kg, bird performance feedback, and repeat order rate.
+
+---
+
+## 58. Concrete block and paver manufacturing
+
+**Concept:** Manufacture concrete hollow blocks, solid blocks, and paving blocks using a block-making machine and sell to builders, contractors, and hardware stores.
+
+**How it works**
+- Source cement, sand, and aggregate; mix with water in correct ratios.
+- Use block-making machine (manual, semi-automatic, or automatic) to mold blocks/pavers.
+- Cure blocks on pallets in covered yard for 7–14 days; keep moist.
+- Sell per block to builders, hardware stores, and contractors; offer delivery.
+- Track machine output, material costs, block quality (strength tests), and customer orders.
+
+**Customers:** Home builders, small contractors, hardware stores, developers, landscapers.
+
+**Revenue:** Per-block sale, delivery fee, mold/machine rental, custom block or paver orders.
+
+**Pros:** Construction demand is constant; blocks are a basic building material; local materials (sand, cement); semi-automatic machines offer good ROI; interlocking/paver products command premium.
+
+**Cons and risks:** Cement price volatility, machine breakdown, curing space and water needs, power dependence (electric machines), competition from established blockyards, quality consistency critical for contracts.
+
+**First prototype:** Produce and sell 1,000–3,000 blocks using one manual or semi-automatic machine; track cost per block, sale price, strength test results, and builder feedback.
+
+### Research data (as of 2026)
+
+**Market evidence:** Block making is an established construction-materials business across Africa. Manual block machines in Nigeria sell from ₦250k (~US$200); semi-automatic machines US$5k–30k imported (KES 150k–450k in Kenya); produce ~4,000 hollow blocks per 8-hour shift. Small-to-medium startup: Nigeria ₦3.4M–9.8M, Kenya KES 430k–1.32M, South Africa ZAR 73k–260k. South Africa small-scale manual/semi-auto: R145k–490k; medium: R1.08M–3.15M. Block strength consistency wins construction contracts; curing yard (concrete slab) is critical before earning. Machine tiers: manual 1,000–3,000 blocks/day (US$8–40k), semi-automatic 3,000–10,000/day (US$120–450k), fully automatic 10,000–40,000+/day (US$600k–1.5M+).
+
+**Requirements:** Block-making machine (manual/semi-automatic), concrete mixer, molds (hollow, solid, paver), cement/sand/aggregate source, water supply, curing yard/pallets, wheelbarrows/shovels/tools, site with level ground, delivery vehicle (optional at start), block strength testing method, business/trade license.
+
+**Estimated budget:** Lean manual: US$8k–40k machine + ~US$80k total project (South Africa R145k–490k). Semi-automatic: US$120k–450k plant. Kenya small-to-medium: KES 430k–1.32M. Recurring: cement, sand, aggregate, fuel/power, labor.
+
+**Competitors and prior art:** Established blockyards, hardware stores selling blocks, imported block machines (BESS, Lontto), concrete paver manufacturers. Differentiation: consistent strength/quality, interlocking/paver products, reliable delivery, competitive per-block price, local materials.
+
+**Revenue model:** Per-block sale, delivery fee, custom mold orders, machine/mold rental.
+
+**Risk mitigation:** Test block strength regularly (compressive test); maintain cement:sand:aggregate ratios; cure blocks properly (moist, covered); secure aggregate supply; start manual/semi-auto before automatic.
+
+**Next experiment:** Produce and sell 1,000–3,000 blocks using one manual or semi-automatic machine; track cost per block, sale price, strength results, and builder reorder rate.
+
+---
+
+## 59. Computer training and digital skills center
+
+**Concept:** A training center teaching basic computer skills, Microsoft Office, internet use, online registration, and digital skills to students, job seekers, and small business owners.
+
+**How it works**
+- Set up a small computer lab (5–15 workstations) with internet, printer, and UPS/generator.
+- Offer courses: basic computing, Word/Excel, internet/email, online registration (school results, government services), graphic design basics.
+- Charge per course or per hour; offer certificates on completion.
+- Provide cyber-café services (printing, photocopying, browsing) to supplement training income.
+- Partner with schools, youth groups, and NGOs for student referrals.
+
+**Customers:** Students, job seekers, school leavers, small business owners, civil servants needing digital skills.
+
+**Revenue:** Per-course fee, per-hour computer use, printing/photocopying, exam/certificate fees, online registration service fee.
+
+**Pros:** Digital skills are in high demand; low starting cost (can start with 1 computer); recurring student enrollment; multiple income streams (training + café services); community impact.
+
+**Cons and risks:** Power outages, internet cost/reliability, computer theft/damage, competition from existing centers, student payment irregularity, need for skilled trainers.
+
+**First prototype:** Start with 1–5 computers offering basic computing and internet/registration services; track students served, revenue per student, and course completion rate for one month.
+
+### Research data (as of 2026)
+
+**Market evidence:** Computer training centers remain in demand across Africa; many people—especially outside major cities—rely on ICT centers for online registrations, result checking, and basic digital skills. Uganda ITAU: can start with 1 computer; 5-user lab is a good start. Kenya cyber cafe: KSh 100k–500k startup depending on computers and location. South Africa digital skills center: R50k–150k online-only; R150k–300k for 10–15 workstations physical center; MICT SETA accreditation R5k–20k for recognized qualifications. Courses: basic computing, MS Office, internet, coding, graphics. Services: browsing, printing, photocopying, online registration, typing/design.
+
+**Requirements:** Computers (1–15 workstations), desks/chairs, internet (fiber/mobile), printer/photocopier, UPS or generator, licensed software, trainer(s), curriculum/course materials, location near schools/youth, business registration, optional accreditation (MICT SETA/QCTO in SA).
+
+**Estimated budget:** Lean: KSh 100k–500k (Kenya) or R50k–150k (South Africa online) / R150k–300k (physical). Can start with 1 computer (Uganda model). Recurring: internet, electricity, rent, paper/toner.
+
+**Competitors and prior art:** Existing cyber cafes, computer schools, TVET colleges, mobile phone-based learning (indirect), NGO digital literacy programs. Differentiation: certificate courses, online registration services, location near schools, flexible hours, combo training + café services.
+
+**Revenue model:** Per-course fee, per-hour access, printing/photocopying, certificate/exam fees, online registration service fee.
+
+**Risk mitigation:** Start small (1–5 computers) to validate demand; UPS/generator for power; secure computers; clear pricing; partner with schools for referrals; collect fees upfront or per-session.
+
+**Next experiment:** Start with 1–5 computers offering basic computing and internet/registration services; track students served, revenue per student, completion rate, and café service uptake for one month.
+
+---
+
+## 60. Fresh fruit juice processing and vending
+
+**Concept:** Prepare and sell fresh fruit juices and smoothies from a kiosk or small processing setup, sourcing fruit daily from local markets and selling by the cup or bottle.
+
+**How it works**
+- Source fresh fruits (mango, passion fruit, pineapple, watermelon, orange, carrot) from wholesale markets daily.
+- Wash, peel, blend/extract juice; serve chilled with ice in disposable or reusable cups.
+- Sell from a kiosk, table, or small shop during peak hours (morning, lunch, evening).
+- Track fruit cost, cups sold, price per cup, and waste daily; reinvest profits.
+- Optional: pasteurize and bottle for retail/shops (requires KEBS/health licensing).
+
+**Customers:** Office workers, students, commuters, market-goers, health-conscious consumers.
+
+**Revenue:** Per-cup or per-bottle sale, combo deals, bulk supply to offices/shops.
+
+**Pros:** Low startup cost (can start ~KSh 10k–USh 120k–250k); daily cash income; high margins per cup; fresh, healthy product appeals to urban consumers.
+
+**Cons and risks:** Fruit price seasonality, juice spoilage (serve fresh, don't store overnight), hygiene/food-safety compliance, competition from other juice vendors, perishable inventory, power for blender/cooler.
+
+**First prototype:** Sell fresh juice from one kiosk/table for one month; track cups sold, cost per cup, price per cup, daily profit, and customer return rate.
+
+### Research data (as of 2026)
+
+**Market evidence:** Fresh juice vending is a low-barrier, daily-cash business in East African towns. Kenya: startup ~KSh 10,000 (blender KSh 3k, fruit KSh 2k, cups KSh 1.2k, table/basin KSh 1.5k); sell cups at KSh 50–70 (300ml) or KSh 100 (500ml); 40 cups/day → KSh 2,800 revenue, ~KSh 1,700 gross profit, ~KSh 37k/month. Uganda: commercial blender USh 120k–250k; cup USh 1,500–4,000; cost USh 800–1,200/cup; gross profit USh 800–2,000/cup; 40–60 cups/day → net USh 25k–55k/day, ~USh 750k–1.65M/month. Nigeria: ₦700k–2.5M depending on scale; ROI 4–6 months. Requirements: food handler's medical certificate, single-business permit (KSh 1k–2k), KEBS certification if bottling, hygiene practices.
+
+**Requirements:** Commercial blender or juice extractor, table/kiosk, disposable cups/lids/straws or reusable cups, cooler box/ice, cutting board and knives, water container, cleaning supplies, fruit supply (daily market trips), food handler's certificate, business permit, cooler/fridge (optional).
+
+**Estimated budget:** Lean: KSh 10k–20k (Kenya) or USh 120k–250k (Uganda) or ₦700k (Nigeria roadside kiosk). Branded stand: ₦1.5M–2.5M. Recurring: fruit, cups, ice, transport.
+
+**Competitors and prior art:** Roadside juice vendors, smoothie stands, cafés, bottled juice/soft drinks (indirect), fruit sellers (indirect). Differentiation: fresh-made visible preparation, hygiene, combo flavors, convenient location, consistent quality.
+
+**Revenue model:** Per-cup sale, combo pricing, bulk office supply, optional bottled retail.
+
+**Risk mitigation:** Buy fruit daily (don't store overnight), maintain visible hygiene, use food-grade cups, price per cup to cover fruit+packaging+labor, get health certificate and permit, track daily waste.
+
+**Next experiment:** Sell fresh juice from one kiosk/table for one month; track cups sold, cost per cup, price per cup, daily net profit, and repeat customer rate.
+
+---
+
+## 61. Motorcycle spare parts retail
+
+**Concept:** A retail shop stocking fast-moving motorcycle spare parts and accessories (tires, tubes, brake pads, chains, spark plugs, engine oil, mirrors, bulbs) for boda-boda riders and private owners.
+
+**How it works**
+- Source parts wholesale from distributors/importers (e.g., Computer Village equivalents, Dubai/Uganda sources).
+- Stock fast-moving consumables for popular local motorcycle models (Boxer, TVS, Ranger, etc.).
+- Sell retail to riders and mechanics; offer advice on fitment.
+- Track stock by part number/model, reorder fast movers, build relationships with mechanics for referrals.
+- Optionally add simple repair services (tire puncture, oil change).
+
+**Customers:** Boda-boda riders, motorcycle owners, mechanics, small transport operators.
+
+**Revenue:** Per-part retail markup, repair service fee (puncture, oil change), bulk sale to mechanics.
+
+**Pros:** High demand from large motorcycle population; consumables need frequent replacement; low capital to start (₦/KSh 50k–300k); repeat customers; mechanic referrals drive volume.
+
+**Cons and risks:** Stocking wrong models/parts, counterfeit parts, price competition, capital tied in inventory, theft, seasonal demand, supplier reliability.
+
+**First prototype:** Stock fast-moving parts (tubes, brake pads, spark plugs, oil, mirrors) for one month; track units sold, margin per part, reorder rate, and mechanic referrals.
+
+### Research data (as of 2026)
+
+**Market evidence:** Motorcycles (boda-boda) are a major transport mode in East/West Africa; riders need regular replacement parts. Kenya startup: KSh 300k–1M+; KSh 50k enough for basic stock; single business permit KSh 5k–10k. Nigeria keke/motorcycle parts: Tier 1 starter ₦300k–800k; Tier 2 ₦1M–3M; Tier 3 wholesale ₦4M–20M+. Fast movers: tires/tubes, brake pads, chains/sprockets, spark plugs, filters, engine oil, mirrors, bulbs, gaskets. Kenya spare parts guide estimates grand total ~KSh 228k for a small shop; ideal minimum ~KSh 300k. Retail kiosk in Nigeria earns ₦10k–50k daily.
+
+**Requirements:** Shop/stall in high-traffic location (near garage or boda stage), initial stock of fast-moving parts, shelving/display, business permit (single business license), supplier relationships (wholesalers/importers), price list by motorcycle model, cash handling, basic tool kit if offering puncture/oil service.
+
+**Estimated budget:** Lean: KSh 50k–300k (Kenya) or ₦300k–800k (Nigeria Tier 1). Full shop: KSh 1M+ or ₦1M–3M. Recurring: restocking, rent, permit renewal.
+
+**Competitors and prior art:** Existing motorcycle spare parts shops, market stall parts dealers, importers/distributors (Car & General, Mark Holdings, Sohansons in Kenya), mechanics who stock parts (indirect). Differentiation: stock right models, genuine parts, mechanic relationships, convenient location, optional puncture/oil service.
+
+**Revenue model:** Per-part retail markup, puncture/oil-change service fee, bulk mechanic discounts, accessory upsell.
+
+**Risk mitigation:** Stock fast movers first, track by model, avoid overstocking slow items, verify supplier quality, build mechanic referral network, secure shop against theft.
+
+**Next experiment:** Stock fast-moving parts (tubes, brake pads, spark plugs, oil, mirrors) for one month; track units sold, margin per part, reorder rate, and mechanic referrals.
+
+---
+
 ## Updating the comparison table
 
 Add these rows to the comparison table when prioritizing:
@@ -1742,3 +1977,9 @@ Add these rows to the comparison table when prioritizing:
 | Waste plastic recycling | Medium–high | Medium | Pellet/product sale + collection fee |
 | Home fumigation service | Low | Low | Per-treatment fee + maintenance contract |
 | Event portable toilet rental | Medium | Low–medium | Per-unit/day rental + delivery + servicing |
+| Solar phone charging kiosk | Low–medium | Low | Per-charge fee + airtime + accessories |
+| Animal feed production | Medium–high | Medium | Per-kg/bag feed sale + pellet premium |
+| Concrete block and paver manufacturing | Medium–high | Medium | Per-block sale + delivery |
+| Computer training center | Low–medium | Low | Per-course fee + café services |
+| Fresh fruit juice vending | Low | Low | Per-cup sale + combo deals |
+| Motorcycle spare parts retail | Low–medium | Low | Per-part markup + repair service |
