@@ -760,6 +760,236 @@ Copy this for any new concept:
 
 ---
 
+## 31. Boda-boda booking and safety platform
+
+**Concept:** A ride-hailing and panic-alert tool for motorcycle-taxi drivers and passengers that works on basic phones via USSD or a simple app.
+
+**How it works**
+- Drivers register with license, photo, and motorcycle details; passengers request a ride by phone or app.
+- The platform matches the nearest available driver and shares estimated fare and arrival time.
+- A panic button sends the trip's location to emergency contacts and a local response number.
+- Trip records, driver ratings, and fare history are stored locally and sync when online.
+- Payments are cash or mobile money, confirmed on both sides.
+
+**Customers:** Boda-boda riders, passengers, fleet owners, transport saccos.
+
+**Revenue:** Per-ride commission, driver subscription, safety-alert subscription, fleet management fee.
+
+**Pros:** High daily transaction volume; safety is a real concern; works where smartphones are uncommon.
+
+**Cons and risks:** Driver and passenger trust, cash disputes, competition from existing ride apps, regulatory requirements for transport, rider safety and accident liability.
+
+**First prototype:** Run USSD-based ride matching for 5–10 drivers in one neighborhood; track completed rides, fares collected, and panic-button usage.
+
+---
+
+## 32. Solar irrigation pump rental for small farms
+
+**Concept:** Rent solar-powered water pumps to smallholder farmers by the season or per irrigated acre, with delivery and setup included.
+
+**How it works**
+- A solar pump kit (panel, pump, pipes, controller) is delivered to a farmer's plot.
+- The farmer pays a rental fee per season or per hour of use, via mobile money.
+- A technician installs the pump and trains the farmer on use and basic maintenance.
+- The kit is collected at season end or the farmer can renew.
+- Usage logs track hours run and water delivered for billing transparency.
+
+**Customers:** Smallholder farmers, vegetable growers, horticulture groups.
+
+**Revenue:** Seasonal or hourly rental fee, delivery and setup fee, maintenance contract, optional pump sale with financing.
+
+**Pros:** Increases crop yield and income; works off-grid; repeat seasonal demand; no fuel cost.
+
+**Cons and risks:** High upfront equipment cost, pump theft or damage, water-source access, seasonal demand, farmer ability to pay, technician travel time.
+
+**First prototype:** Rent one solar pump kit to 3–5 farmers for one growing season; measure yield increase, hours used, payment reliability, and equipment condition on return.
+
+---
+
+## 33. Community grain storage and moisture monitoring
+
+**Concept:** A shared grain-storage facility with moisture and temperature sensors that alert managers when grain is at risk of spoilage.
+
+**How it works**
+- Farmers store grain in a community warehouse or hermetic bags.
+- Sensors inside each storage bin or stack record moisture and temperature.
+- Readings are logged locally and alerted via SMS or a dashboard when thresholds are breached.
+- Managers can aerate, dry, or move grain before spoilage.
+- Storage fees are charged per bag or per kilogram per month.
+
+**Customers:** Farmer cooperatives, grain traders, aggregators, millers.
+
+**Revenue:** Storage fees, drying service, sensor/monitoring subscription, quality certification fee.
+
+**Pros:** Reduces post-harvest loss; recurring storage revenue; data builds trust with buyers.
+
+**Cons and risks:** Sensor cost and calibration, moisture variation within a bin, power for fans/dryers, warehouse security, farmer trust in shared storage.
+
+**First prototype:** Monitor one community grain store for one harvest cycle; compare spoilage and moisture levels with and without alerts.
+
+---
+
+## 34. Milk collection and cooling center management
+
+**Concept:** A management tool for milk collection centers that records farmer deliveries, tests milk quality, tracks payments, and monitors chiller performance.
+
+**How it works**
+- Farmers deliver milk; volume, fat content, and quality are recorded per farmer.
+- A lactometer or digital tester records readings; spoiled or adulterated milk is rejected.
+- Payments are calculated per liter and paid weekly via mobile money.
+- Chiller temperature is monitored and alarmed if it rises above safe levels.
+- Reports show daily collection, farmer balances, and milk quality trends.
+
+**Customers:** Dairy cooperatives, milk collection centers, small processors.
+
+**Revenue:** Per-liter processing fee, center management subscription, quality-testing fee, chiller maintenance.
+
+**Pros:** Dairy is daily and recurring; farmers need reliable payment and quality records.
+
+**Cons and risks:** Milk adulteration, chiller failure, cold-chain breaks, payment disputes, regulatory food-safety requirements.
+
+**First prototype:** Run paper-plus-spreadsheet records at one collection center for one month; track liters collected, rejections, and payment accuracy vs. manual.
+
+---
+
+## 35. Brick-making machine and quality-testing service
+
+**Concept:** A manual or motorized brick press plus a simple compressive-strength test so small producers can make and sell certified-quality bricks.
+
+**How it works**
+- A press compresses soil-cement mix into uniform blocks or bricks.
+- A simple crush test estimates strength; results are recorded per batch.
+- Blocks are cured and sold to builders and small contractors.
+- Quality records help producers charge more and win contracts.
+- Optional mold rental and mix-recipe consulting.
+
+**Customers:** Small block producers, builders, hardware stores, homeowners.
+
+**Revenue:** Machine sale or rental, block sale, quality-testing fee, mold and mix consulting.
+
+**Pros:** Construction demand is steady; local materials; quality differentiation commands higher prices.
+
+**Cons and risks:** Cement and soil quality vary, curing time and space, machine maintenance, competition from imported or factory blocks, safety of press operation.
+
+**First prototype:** Build or rent one press, produce and test 100 blocks, and compare strength and cost against market bricks.
+
+---
+
+## 36. Insecticide-treated net subscription and replacement reminder
+
+**Concept:** A subscription that delivers replacement mosquito nets on schedule and sends SMS reminders before the old net loses effectiveness.
+
+**How it works**
+- Households subscribe to net replacement every 6–12 months.
+- A new treated net is delivered or available at a local pickup point.
+- SMS reminders notify subscribers when replacement is due and where to collect.
+- Usage and replacement records track coverage per village or zone.
+- Subsidized nets can be distributed through health partners.
+
+**Customers:** Households, health clinics, NGOs, community health workers.
+
+**Revenue:** Net sale or subscription fee, delivery fee, bulk supply to clinics and NGOs.
+
+**Pros:** Health need is urgent; replacement creates recurring revenue; simple to explain and deliver.
+
+**Cons and risks:** Net quality and insecticide efficacy, distribution logistics, customer recall, competition from free or subsidized nets.
+
+**First prototype:** Sell or subscribe 20–50 nets in one village with SMS reminders; measure collection rate and repeat subscription after one year.
+
+---
+
+## 37. Cooking-gas cylinder exchange and level monitoring
+
+**Concept:** A cylinder-exchange service where customers swap empty LPG cylinders for filled ones, with a simple level indicator to avoid running out mid-cook.
+
+**How it works**
+- Customers buy or lease a cylinder and exchange it at a depot or via delivery when empty.
+- A magnetic or ultrasonic level indicator clips to the cylinder and shows remaining gas.
+- Delivery routes are planned to minimize travel; empty cylinders are returned for refilling.
+- A deposit covers the cylinder; refills are paid via cash or mobile money.
+- Safety checks verify valves and seals before each refill.
+
+**Customers:** Households, restaurants, small food vendors.
+
+**Revenue:** Cylinder deposit, refill fee, delivery fee, level-indicator sale, exchange subscription.
+
+**Pros:** Cooking gas is a daily need; exchange model fits cash-constrained customers; recurring refill revenue.
+
+**Cons and risks:** LPG is flammable; storage and transport require safety certification; cylinder theft; refill-plant access; price volatility.
+
+**First prototype:** Run one exchange depot with 20–30 cylinders for one month; track swaps, deposits, refill cost, and safety incidents.
+
+---
+
+## 38. Pharmacy inventory and expiry alert system
+
+**Concept:** A simple inventory tool for small pharmacies and drug shops that tracks stock, flags near-expiry medicines, and suggests reorder quantities.
+
+**How it works**
+- Each medicine is logged with name, batch, quantity, and expiry date.
+- The system alerts when stock is low or a product is within 30–90 days of expiry.
+- Near-expiry items can be marked for discount or return to supplier.
+- Sales are recorded and daily/weekly reports show fast movers and slow movers.
+- Works on a phone or low-cost tablet; data syncs when online.
+
+**Customers:** Small pharmacies, drug shops, clinic dispensaries.
+
+**Revenue:** Per-shop subscription, setup and training, premium reorder suggestions, integration with suppliers.
+
+**Pros:** Reduces waste from expired stock; prevents stockouts; improves cash flow.
+
+**Cons and risks:** Staff data-entry burden, existing manual ledgers are free, regulatory record requirements, phone or tablet cost for small shops.
+
+**First prototype:** Track one drug shop's inventory for one month; measure expired stock avoided and time saved vs. manual logs.
+
+---
+
+## 39. Bicycle repair and parts subscription for delivery riders
+
+**Concept:** A subscription repair and parts plan for bicycle delivery riders, with on-call mechanics and a parts kit.
+
+**How it works**
+- Delivery riders pay a weekly or monthly subscription for repairs and parts.
+- A mechanic visits a central point (market, depot) on a fixed schedule.
+- Common parts (tires, tubes, chains, brakes, lights) are stocked and replaced on the spot.
+- Serious issues get a loaner bike or referral to a workshop.
+- Records track repairs per rider and parts used.
+
+**Customers:** Bicycle delivery riders, courier companies, small logistics firms.
+
+**Revenue:** Subscription fee, parts markup, emergency call-out fee, loaner-bike rental.
+
+**Pros:** Delivery riders depend on bikes daily; breakdowns stop income; recurring subscription revenue.
+
+**Cons and risks:** Mechanic availability, parts inventory and counterfeit parts, rider payment reliability, weather and terrain wear.
+
+**First prototype:** Serve 10–15 riders at one depot weekly for one month; track repairs done, parts used, subscription renewal, and downtime avoided.
+
+---
+
+## 40. Community solar mini-grid meter and payment collection
+
+**Concept:** A prepaid meter and collection tool for small solar mini-grids that lets households pay for electricity in small amounts via mobile money.
+
+**How it works**
+- Each household has a prepaid meter that credits purchased units.
+- Customers buy tokens via mobile money and enter a code to load units.
+- The meter disconnects when credit runs out and reconnects on recharge.
+- A central dashboard shows consumption, arrears, and meter health per household.
+- Technicians use the data to plan maintenance and detect tampering.
+
+**Customers:** Off-grid households, mini-grid operators, village energy committees.
+
+**Revenue:** Meter sale or lease, per-unit electricity margin, collection fee, maintenance contract.
+
+**Pros:** Enables pay-as-you-go solar; small payments fit household budgets; reduces bad debt for operators.
+
+**Cons and risks:** Meter cost and installation, tampering, battery and panel maintenance, regulator approval for tariffs, technical skill to operate grid.
+
+**First prototype:** Install prepaid meters on 10–20 connections at one mini-grid site for one month; track units sold, collections, arrears, and tamper events.
+
+---
+
 ## Updating the comparison table
 
 Add these rows to the comparison table when prioritizing:
@@ -774,3 +1004,13 @@ Add these rows to the comparison table when prioritizing:
 | Laundry subscription | Low | Low–medium | Per-kilo + subscription |
 | Used-phone trade-in | Low–medium | Low | Buy-sell margin |
 | Audio farming content | Low | Low–medium | Per-call + subscription |
+| Boda-boda booking and safety | Low–medium | Medium | Per-ride commission + subscription |
+| Solar irrigation pump rental | Medium–high | Medium | Rental + setup + maintenance |
+| Grain storage and moisture monitoring | Medium | Medium | Storage + monitoring + drying |
+| Milk collection center management | Low–medium | Medium | Per-liter fee + subscription |
+| Brick-making and quality testing | Medium | Medium | Machine + blocks + testing |
+| Net subscription and replacement | Low | Low | Subscription + net sale |
+| LPG cylinder exchange | Medium–high | Medium | Refill + deposit + delivery |
+| Pharmacy expiry alert system | Low | Low–medium | Subscription + setup |
+| Bicycle repair subscription | Low | Low–medium | Subscription + parts |
+| Solar mini-grid prepaid meter | Medium–high | High | Meter + per-unit margin |
