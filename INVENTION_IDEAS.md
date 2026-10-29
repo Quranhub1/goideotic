@@ -597,6 +597,20 @@ Copy this for any new concept:
 
 **First prototype:** A spreadsheet or simple app tracking one class's fees for one term; compare time spent and errors vs. paper.
 
+### Research data (as of 2026)
+
+**Market evidence:** Digital school-fee collection is already active in East Africa. Bank of Africa Uganda offers "School Pay Collections" via MTN MoMo and Airtel Money with free account opening and no monthly management fee, charging only mobile-money transaction fees. GusaPay (Kenya) processes fees via M-Pesa Paybill 247247 with instant SMS receipts and real-time balance updates. SchoolPay (Service Cops) is a web + USSD + mobile platform integrating multiple banks and mobile-money networks with auto-reconciliation. Student DigPay (Uganda) uses *217*215# USSD. Kawallet (Uganda) lets students transact via a key-holder device for UGX 3,000. RedeemOS integrates MTN MoMo, Vodafone Cash, AirtelTigo Money, M-Pesa, Airtel Money, Orange Money across West/East/Southern Africa with automatic reconciliation and digital receipts.
+
+**Requirements:** Business/bank account (current account; passport photos, national ID, email, phone); mobile-money merchant integration (Paybill/Till number or direct MoMo API via Paystack/Flutterwave or telco gateway); student unique payment reference; receipt generation (SMS or print); offline-first data sync; data privacy compliance for student records.
+
+**Estimated budget:** Software prototype can start near zero using spreadsheet/no-code tools. A simple hosted web app with mobile-money reconciliation: roughly UGX/KSh 500,000–2,000,000 initial build depending on scope. Ongoing: mobile-money transaction fees (paid by parents), hosting, SMS gateway fees, support.
+
+**Competitors and prior art:** Bank of Africa School Pay, GusaPay, SchoolPay, Student DigPay, Kawallet, RedeemOS, plus manual paper ledgers and bank deposit slips. Differentiation: offline-first, receipt printing, per-student balance tracking, simplicity for rural schools.
+
+**Revenue model:** Per-school monthly/termly subscription, per-student term fee, optional receipt-book printing, training and support, SMS notification fees.
+
+**Next experiment:** Approach 5–10 schools in one town; offer free tracking for one term in exchange for feedback and willingness-to-pay data.
+
 ---
 
 ## 24. Agro-inputs bulk-buying and resale cooperative platform
@@ -642,6 +656,22 @@ Copy this for any new concept:
 **Cons and risks:** Theft, damage, non-return, battery wear, charging time, security of cash/mobile money.
 
 **First prototype:** Deploy one cabinet with 20 units at one market; track rentals, returns, and losses for one month.
+
+### Research data (as of 2026)
+
+**Market evidence:** Solar lantern rental/fee-for-use is a proven off-grid model. Kenya Power runs 840 solar charging stations across 13 counties renting 24,000 lanterns; rent-to-own at KSh 10/day, ownership transfers at KSh 5,600 total (lanterns from Omni-voltaic, 100–200 lumens, 2-year warranty, 100W solar charging systems). In rural Cambodia, a rent-to-own model charged $0.06/day (~$21.70/year) with an estimated $253 profit on a $750 investment. Lighting Global notes the rental/leasing model reaches customers who cannot afford full upfront cost but requires high capital investment by the entrepreneur and is often unproven commercially without subsidy. Rwanda lamps recharge at ~100 RWF.
+
+**Requirements:** Lockable charging cabinet/kiosk; solar lanterns (100–200 lumen, Li-ion battery, 2+ yr warranty); solar panels or grid power for charging; mobile-money or cash collection; ledger for units/deposits/overdue tracking; secure location; operator training; optional rent-to-own payment tracking.
+
+**Estimated budget:** One cabinet with 20 lanterns: roughly KSh/UGX 300,000–800,000 depending on lantern quality and solar charging capacity. Per-lantern unit cost roughly KSh 2,800–5,600 retail. Charging station (100W solar): KSh 50,000–150,000. Working capital for float/deposits.
+
+**Competitors and prior art:** Kenya Power solar charging stations, BPC Lesedi (Botswana franchise), TERI Lighting a Billion Lives (fee-for-service), Sunlabob (Laos), pay-as-you-go solar companies (d.light, Greenlight Planet), kerosene and candle sellers (indirect). Differentiation: rent-to-own path, phone-charging add-on, local operator commission.
+
+**Revenue model:** Daily/weekly rental fees (e.g., KSh 10/day), rent-to-own culminating in ownership, deposits on unreturned units, phone-charging fees.
+
+**Safety notes:** Lithium battery fire risk; secure charging area; avoid overcharging; quality lanterns to reduce e-waste.
+
+**Next experiment:** Deploy one cabinet with 20 units at one off-grid market; track rentals, returns, losses, and revenue per lantern per week for one month.
 
 ---
 
@@ -712,6 +742,22 @@ Copy this for any new concept:
 
 **First prototype:** Serve 5–10 customers weekly for one month using a laundromat; measure time per order, cost per kilo, and customer retention.
 
+### Research data (as of 2026)
+
+**Market evidence:** Pickup-and-delivery laundry is an established urban service in Nigeria and Kenya. FreshFold (Nigeria) model: one industrial washer, dryer, steam press, one dispatch rider, WhatsApp booking; initial investment ~₦4.2M; blended revenue ~₦1,200/order; gross margin target ~52%; break-even at ~180 orders/month by Month 4; projected Year-1 revenue ~₦14.4M. Nigeria neighborhood guides estimate basic startup at ₦115,000–₦150,000 (1 washing machine, iron, detergents, tricycle/motorbike, marketing). Kenya planning ranges: outsourced collection model KSh 50k–150k; home operation KSh 120k–300k; neighborhood shop KSh 350k–800k; commercial laundry KSh 1.3M–3M+. Nairobi operators (Mamasafi, Supawash) use minimum-order and free-delivery-threshold policies because logistics can consume ~KSh 50/kg of a KSh 150/kg price. Subscriptions: ₦15k/month for weekly pickup+delivery of 10kg max in Lagos estates; potential ₦50k–₦300k monthly per 50 subscribers.
+
+**Requirements:** Washing machine (domestic to semi-commercial), dryer or drying space, steam press/iron, weighing scale, labeled bags/bins, detergents and stain removers, motorbike/tricycle or dispatch arrangement, WhatsApp Business or simple booking tool, garment tags to avoid mix-ups, minimum-order and delivery-zone policy, damage/loss compensation policy.
+
+**Estimated budget:** Lean home/pickup model: ₦30k–₦150k (Nigeria) or KSh 50k–150k (Kenya). Small shop with 2 machines: ₦3.1M–₦8.3M (Nigeria) or KSh 350k–800k (Kenya). Includes shop rental/deposit, renovation, machines, generator/inverter, detergents, tags/bags, business registration, working capital.
+
+**Competitors and prior art:** Roadside washermen, informal dry cleaners, self-service laundromats, Mamasafi, Supawash, FreshFold, Kolonell (laundry app platform, FCFA 1.2M–3M build cost). Differentiation: subscription prepaid via mobile money, reliable turnaround, tagging/tracking, express premium, corporate/linen contracts.
+
+**Regulatory:** Nigeria: CAC business-name registration, Local Government premises permit, fire-safety certificate (if generator/electrical on premises), wastewater consideration where EPA active; NAFDAC not required for plain laundry. Kenya: county permits; no NAFDAC equivalent for laundry.
+
+**Revenue model:** Per-kilo or per-bundle fee, pickup/delivery premium, subscription (weekly/monthly), express/same-day surcharge, corporate/linen contracts, outsourced dry-cleaning markup.
+
+**Next experiment:** Serve 5–10 customers weekly for one month using a laundromat; track time per order, cost per kilo (incl. logistics), retention, and whether a subscription price is acceptable.
+
 ---
 
 ## 29. Used-phone grading and trade-in kiosk
@@ -734,6 +780,22 @@ Copy this for any new concept:
 **Cons and risks:** Stolen phones, counterfeit devices, battery safety, testing accuracy, price volatility.
 
 **First prototype:** Manually grade and buy 5–10 used phones, resell them, and track actual margin vs. offer price.
+
+### Research data (as of 2026)
+
+**Market evidence:** Africa's used-smartphone market is growing fast. Badili, a Kenya-based re-commerce startup, raised $2.1M pre-seed (Dec 2022) backed by Venture Catalysts, V&R Africa, SOSV, and partners with Samsung; it buys via shops/agents, grades with a price-estimation algorithm, refurbishes, and resells with a 1-year warranty, expanding into Uganda and Tanzania. Nigeria used-phone flipping guides cite minimum realistic starting capital of ₦300k–₦500k for small flipping (2–5 phones), with ₦15k–₦60k profit per unit. Ghana used-phone import: company registration ~500–1,000 GHS; wholesale batches of 100–500 devices from UK (Alibaba, eBay Wholesale, Clikka, DrumIt, BidIt) with 7–15 day fulfillment.
+
+**Requirements:** Grading tools (lighting, camera, multimeter, battery tester, IMEI/blacklist check); seller verification (national ID copy, residence, phone, signed affidavit of ownership); records kept ≥2 years (category, brand, model, serial, IMEI/IMEI-SV, condition, seller identity); invoice issuance; safety check (IEC 60950-1); data-handling policy (do not erase seller data before purchase terms); cash/mobile-money float for purchases.
+
+**Estimated budget:** Nigeria small-flip level: ₦300k–₦500k initial (2–5 phones inventory, minor repairs ₦10k–₦50k/phone, logistics ₦2k–₦7k, marketing ₦20k–₦100k/month). Ghana import setup: company registration 500–1,000 GHS + first batch of 100–500 devices. Per-phone testing kit and tools: modest one-time cost.
+
+**Competitors and prior art:** Badili (Kenya/Uganda/Tanzania), local phone-repair shops that buy used devices, street-market phone dealers, online classifieds (OLX/Jumia), carrier trade-in programs, e-waste recyclers. Rwanda regulations (2022) govern used EEE trade: seller verification, IMEI recording, 2-year record retention, contracts, invoices, authority notification.
+
+**Revenue model:** Buy-sell margin per phone, refurbishment fee, parts sales (screens, batteries, cameras), warranty on resold phones, consignment for refurbishers.
+
+**Risk mitigation:** Verify seller identity and ownership before purchase; check IMEI against blacklists; separate functional/cosmetic/commercial grading; price conservatively to allow for hidden defects; offer limited warranty on resold units.
+
+**Next experiment:** Manually grade and buy 5–10 used phones in one locality; test, resell, and track actual cost, repair, sale price, and margin per unit.
 
 ---
 
@@ -1194,6 +1256,22 @@ Copy this for any new concept:
 **Cons and risks:** Water-quality consistency, equipment maintenance, power for pumps/UV, container hygiene, competition from sachet and bottled water.
 
 **First prototype:** Run one refill station for one month; track liters sold, cost per liter, water-test results, and customer retention.
+
+### Research data (as of 2026)
+
+**Market evidence:** Water refill stations are a proven model in Kenya. Startup planning ranges: lean treated-water station KSh 300k–500k; modest RO-based station KSh 450k–800k; larger 500 LPH setup KSh 900k–1.5M+. Equipment examples: 125 LPH RO ~KSh 150k; 250 LPH RO ~KSh 350k–500k; 500 LPH RO ~KSh 550k–1.2M (machine only, not complete business). Water ATM/manual refill unit KSh 85k–120k; multi-tap/automated water ATM KSh 250k–600k. Gross margins commonly reported at 40–60% once licensed and located. Illustrative break-even: selling at KSh 5/litre with KSh 1.50 variable cost and KSh 70,000 fixed monthly costs → 20,000 litres/month (~667 litres/day). KEBS KS EAS 153:2018 standard applies to refilling water; Standardization Mark mandatory for locally manufactured products. Water classified as a food product → public-health rules apply.
+
+**Requirements:** Water source (borehole, spring, municipal) with Water Resources Authority abstraction permit if not municipal; treatment train matched to source water analysis (RO/UF/filtration/UV/chlorine); raw and treated storage tanks; filling/rinsing line or manual taps; water vending station; plumbing, electrical, pumps, drainage; premises deposit/rent/fit-out; licenses: Single Business Permit (county), Public Health Certificate (county health), KEBS certification (KS EAS 153 / KS 459 Part 9 hygiene code — requires stainless steel surfaces, tiled waterproof floor, insectocuter, foot bath, hand-washing, first-aid kit, dedicated production area not above living quarters), NEMA environmental compliance (wastewater), KRA PIN tax registration; recurring lab water testing; consumables (filters, membranes, UV lamps, sanitizing supplies).
+
+**Estimated budget:** Total estimated start-up capital KSh 300k–1,000,000+ (House of Maji breakdown: RO/UF machine 150k–500k; tanks 45k–150k; vending/filling line 80k–250k; bottle rinser 20k–60k; licensing/permits 10k–30k; branding/consumables 30k–80k). KEBS certification ~KSh 15k–30k; NEMA ~KSh 10k–20k; county permit + health certificate ~KSh 5k–15k; water-quality lab testing varies.
+
+**Competitors and prior art:** House of Maji, Zakafrica Water, Saset (Kenya/Uganda/Tanzania/Rwanda turnkey), sachet-water producers, bottled-water brands, kiosk water vendors. Differentiation: treated refill by litre (cheaper than bottled), posted water-quality results, container hygiene, M-Pesa-integrated water ATM.
+
+**Revenue model:** Per-litre refill fee, sealed-bottle sale, container deposit, delivery fee, annual maintenance contract.
+
+**Safety notes:** RO reject stream disposal; water-quality consistency; container hygiene; NEMA wastewater compliance; KEBS hygiene code for premises.
+
+**Next experiment:** Run one refill station for one month; track litres sold, cost per litre (incl. power, filters, labour), water-test results, retention, and time to break-even volume.
 
 ---
 
