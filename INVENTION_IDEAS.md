@@ -1114,3 +1114,387 @@ This batch emphasizes narrow, testable products for workshops, farms, small busi
 
 The best choice depends on your available tools, budget and access to customers. A product that earns money from a small, repeatable service can be a better starting point than a complicated invention that requires expensive manufacturing.
 
+
+
+---
+
+# Research Batch — Ideas 53–67: Earn Early, Build Lean
+
+**Research date:** 29 October 2026. These are opportunity hypotheses, not proof of demand, novelty, patentability or profitability. The fastest route to revenue is usually to sell a narrow service manually first, then automate only the repeated parts.
+
+## What the market evidence suggests
+
+- Uganda's Ministry of Trade, Industry and Cooperatives describes MSMEs as over 90% of private-sector firms and highlights technology, skills, finance and market-linkage barriers. This supports testing simple business services, but it does not prove that any one concept will sell. Source: https://www.mtic.go.ug/launch-the-state-of-entrepreneurship-in-uganda-2024-report/
+- Research ICT Africa's 2025 Uganda report says internet access and smartphone/computer ownership remain uneven. Its underlying microenterprise analysis found very heavy use of offline methods for accounting and planning, with limited use of dedicated software. This favours assisted setup, paper-plus-phone workflows and offline-capable tools over an app that assumes every customer is digitally confident. Sources: https://researchictafrica.net/research/digital-africa-post-the-pandemic-uganda-report/ and https://researchictafrica.net/wp-content/uploads/2025/10/After-Access_Uganda_Household-report_2022_RIA_2025.pdf
+- There are already free or low-cost options for common digital tasks. WhatsApp Business offers catalogs, labels, quick replies and other customer messaging features; inventory products such as ChapChap Shop, Jeeni Commerce and others advertise offline sales/stock records. Therefore, Goideotic should not compete merely by cloning a generic catalog or stock app. Differentiate with setup, trusted local workflows, a narrowly defined outcome, and ongoing service. Sources: https://whatsappbusiness.com/products/business-app-features/ ; https://chapchap.co/ ; https://jeenitech.com/apps/jeeni-commerce/ ; https://tradex.vorendo.com/
+
+## 53. Stocktake Sprint — paid inventory count and discrepancy report
+
+**Problem:** Owners may suspect missing stock or unreliable records but do not have time to count everything accurately.
+
+**Offer and workflow:** Visit a small shop or storeroom, agree the scope, count items with the owner or staff, record quantities in a spreadsheet or simple form, flag discrepancies and produce a dated baseline report. The first version is a service, not an app. Offer a follow-up count to measure change. Do not accuse staff of theft based on a discrepancy; miscounts, returns and recording errors can explain differences.
+
+**Customers:** Mini-markets, hardware shops, cosmetics stores, salons, small warehouses and school stores.
+
+**Revenue:** Fixed price per count or by agreed item/location band; repeat monthly or quarterly counts; optional data cleanup.
+
+**Alternatives and differentiation:** Paper counts, spreadsheets, owner estimates and inventory apps. Differentiation is a reliable physical count, clear scope and a report the owner can act on—not another stock app.
+
+**Startup cost:** Very low: phone, spreadsheet, calculator, labels and transport.
+
+**Pros:** Can sell before coding; clear deliverable; helps discover common recordkeeping problems.
+
+**Cons/risks:** Labour-intensive; access and count scope must be agreed; errors can undermine trust; customer data must be kept confidential.
+
+**First-week test:** Interview five owners, offer three small paid counts, and measure willingness to pay, hours per count, discrepancy rate and repeat interest. Do not offer free work to everyone; ask for payment on at least one pilot.
+
+## 54. FundiQuote — professional quotes and job-completion packs
+
+**Problem:** Independent technicians often communicate prices and scope informally, which can cause disputes about labour, materials, timing and what was actually completed.
+
+**Offer and workflow:** Create a phone-friendly quote template for one trade—such as plumbing, electrical maintenance or appliance repair—with scope, exclusions, material estimate, labour, validity date, customer approval, change requests and completion acknowledgement. Produce a PDF or WhatsApp-ready summary. Avoid claiming to provide legal advice.
+
+**Customers:** Independent fundis, repair shops and small maintenance contractors.
+
+**Revenue:** Setup fee for branded templates, per-job admin service or small monthly fee for a reusable system.
+
+**Alternatives and differentiation:** Handwritten quotes, WhatsApp messages, generic invoice apps and accounting tools. The wedge is a trade-specific, easy-to-understand scope-and-approval workflow.
+
+**Startup cost:** Very low using existing document tools.
+
+**Pros:** Immediate practical value; no hardware; can be delivered manually.
+
+**Cons/risks:** Templates must fit the trade; customers may resist administration; avoid representing estimates as guaranteed final prices.
+
+**First-week test:** Make a template with two fundis and use it on five real jobs. Compare time spent clarifying scope and the number of price/scope disputes before and after.
+
+## 55. Catalog Rescue — product-photo and WhatsApp storefront setup
+
+**Problem:** A small seller may have good products but poor photos, incomplete descriptions or a disorganized messaging workflow.
+
+**Offer and workflow:** Photograph a limited number of products using a phone and simple lighting, standardize names and prices, write concise descriptions, arrange images, and help the owner configure their own WhatsApp Business catalog, quick replies and labels. Hand over all original images and account access. Never ask for the owner's password or keep control of their account.
+
+**Customers:** Tailors, salons, food vendors, small retailers, craftspeople and repair businesses.
+
+**Revenue:** One-time setup packages, seasonal refreshes, product additions and optional monthly content service.
+
+**Alternatives and differentiation:** DIY phone photography, freelancers, social-media agencies and WhatsApp Business's built-in catalog tools. The product is the done-for-you local service, not a claim that the underlying features are new.
+
+**Startup cost:** Very low if the customer supplies products and you already own a capable phone.
+
+**Pros:** Easy to demonstrate; deliverable is visible; can get paid per package.
+
+**Cons/risks:** Crowded service market; product prices and availability change; photo rights and customer expectations need agreement.
+
+**First-week test:** Offer a fixed-size package to five sellers. Track time per listing, client approval, enquiries generated and whether the seller buys an update.
+
+## 56. MobileMoney Matchbook — transaction reconciliation assistant
+
+**Problem:** A small business may have difficulty matching customer payments, sales records, cash and mobile-money notifications at day end.
+
+**Offer and workflow:** Help the business build a daily reconciliation sheet using its own sales totals and transaction statements or records it is authorized to share. Mark matched, unmatched and duplicate-looking entries for human review. Never collect a PIN, OTP or password, and never initiate, hold or route payments. Do not promise fraud detection based only on screenshots.
+
+**Customers:** Retail shops, salons, small wholesalers and service businesses accepting mobile money.
+
+**Revenue:** One-time setup, daily/weekly reconciliation service or a recurring reporting package.
+
+**Alternatives and differentiation:** Manual notebooks, operator statements, spreadsheets, POS products and accountant/bookkeeper services. Differentiate with careful setup and exception reports for a specific business workflow.
+
+**Startup cost:** Very low; a spreadsheet is enough for the MVP.
+
+**Pros:** Can start as a service; business owners can see the day's unresolved items; no payment rails need to be built.
+
+**Cons/risks:** Financial data is sensitive; screenshot evidence can be incomplete or falsified; mistakes have monetary consequences. Obtain consent, minimize retained data, and have the owner approve all corrections. Check applicable financial and data-protection rules before expanding.
+
+**First-week test:** With permission, reconcile one week's records for two businesses. Measure time saved and number of genuinely unresolved entries. Charge for the service only if the owner sees enough value.
+
+## 57. SolarCare Passport — solar installation handover and maintenance record
+
+**Problem:** Owners may not know which components were installed, when batteries or panels were serviced, or whom to contact when a system underperforms.
+
+**Offer and workflow:** Create a QR-linked or printed service passport recording installer contact, component models/serials, installation date, photos, warranty documents, safe user guidance and maintenance visits. Record only verified details; do not diagnose electrical faults remotely from incomplete records.
+
+**Customers:** Solar installers, shops, landlords, schools, small businesses and owners of off-grid systems.
+
+**Revenue:** Per-installation documentation fee, installer-branded packs, annual service reminders and maintenance referral partnerships.
+
+**Alternatives and differentiation:** Paper warranty cards, invoices, installer WhatsApp chats and manufacturer warranty portals. The advantage is a single organized handover record and an opt-in service history.
+
+**Startup cost:** Very low: QR labels, phone camera and a secure document template.
+
+**Pros:** Easy to pilot with an installer; supports repeat maintenance; can evolve into a portable asset record.
+
+**Cons/risks:** Needs installer cooperation; warranty terms vary; records must not expose household location or equipment serials publicly. Technical inspections must be done by qualified personnel.
+
+**First-week test:** Ask three solar installers to trial the passport on five consenting customers each. Measure completion time and whether customers use the record during a service request.
+
+## 58. LandlordFix Ledger — maintenance request and evidence log
+
+**Problem:** Tenants, landlords and property caretakers can lose track of repair requests, approvals, receipts and completion dates.
+
+**Offer and workflow:** Provide a simple request log with issue description, date, photos, permission status, quotation, approval, contractor, receipt and completion acknowledgement. The tenant or property manager controls who can see each record. Start with one building and a shared spreadsheet or form.
+
+**Customers:** Small landlords, caretakers, property managers, hostels and small commercial-property owners.
+
+**Revenue:** Setup per property, monthly admin service, or fee per maintenance case.
+
+**Alternatives and differentiation:** WhatsApp chats, phone calls, notebooks and property-management software. The wedge is a practical local maintenance workflow for owners who do not need a full property platform.
+
+**Startup cost:** Very low.
+
+**Pros:** No hardware; recurring usage; simple to test on an existing property.
+
+**Cons/risks:** Disputes about responsibility can be sensitive; photos may contain private details; a log does not decide legal obligations or prove fault.
+
+**First-week test:** Ask one property manager to trial it for ten maintenance requests. Measure missing approvals, time to find receipts and overdue jobs.
+
+## 59. ReturnReady — rental-item condition and deposit checklist
+
+**Problem:** People renting chairs, tents, speakers, tools, dresses or other equipment may disagree about condition at return.
+
+**Offer and workflow:** Create a dated, itemized checklist with condition categories, approved photos, accessories, quantity, handover and return signatures or acknowledgements. The customer agrees to the checklist before handover. The service stores records securely and defines a retention period.
+
+**Customers:** Event-rental companies, tool hire, dress rental, furniture hire and small equipment lenders.
+
+**Revenue:** Setup, per-rental documentation, reusable labels and monthly support.
+
+**Alternatives and differentiation:** Paper forms, WhatsApp photos and generic rental software. The advantage is a repeatable evidence pack for a specific rental operator.
+
+**Startup cost:** Very low.
+
+**Pros:** Clear, visual deliverable; can be piloted without coding; may reduce time spent resolving condition disputes.
+
+**Cons/risks:** Photos can be ambiguous; customers may refuse; personal information must be handled carefully. A checklist is evidence, not a guarantee of legal outcome.
+
+**First-week test:** Pilot on 20 rentals and record how long handovers take, missing accessories, disputes and customer acceptance.
+
+## 60. TailorMeasure Passport — reusable customer measurements and fitting history
+
+**Problem:** Tailors repeatedly take measurements and may struggle to recall a customer's previous fit preferences, design and alteration history.
+
+**Offer and workflow:** With customer consent, record measurement date, garment type, ease/fit preferences, style reference, fabric notes, alterations and order history. Print or send a customer-controlled reference card. Measurements must be dated and rechecked when necessary; body measurements can change.
+
+**Customers:** Tailors, uniform makers, bridal and occasion-wear shops.
+
+**Revenue:** Per-shop setup, printed measurement cards, order-history templates and optional subscription for multiple staff.
+
+**Alternatives and differentiation:** Paper notebooks, customer memory, messaging apps and tailoring POS systems. Start as a tailored recordkeeping service for a small shop rather than building a universal fashion platform.
+
+**Startup cost:** Very low.
+
+**Pros:** Repeat-customer value; straightforward pilot; can improve consistency between orders.
+
+**Cons/risks:** Sensitive personal data; incorrect measurements create cost; records must not be shared across businesses without explicit permission.
+
+**First-week test:** Work with one tailor and 20 consenting repeat customers. Measure time to retrieve past measurements, rework and customer willingness to keep a record.
+
+## 61. BodaCare Card — motorcycle maintenance and inspection history
+
+**Problem:** A motorcycle owner or small delivery fleet may miss routine maintenance or have no reliable history when selling or servicing a bike.
+
+**Offer and workflow:** Create a durable card or QR record for odometer readings, oil changes, tyre checks, brake inspections, repairs, parts and service provider. Reminders are based on a mechanic-approved schedule for the specific model and use; the system is not a substitute for a qualified inspection.
+
+**Customers:** Motorcycle mechanics, delivery fleets, boda associations, motorcycle sellers and owners.
+
+**Revenue:** Mechanic setup, per-bike passport, maintenance reminder service and fleet record subscriptions.
+
+**Alternatives and differentiation:** Paper service cards, mechanic notebooks and fleet-management tools. Differentiate through a simple, transferable service history supported by participating workshops.
+
+**Startup cost:** Very low.
+
+**Pros:** Recurring maintenance interaction; can be sold through mechanics; useful at resale.
+
+**Cons/risks:** Odometer values can be inaccurate or manipulated; service quality cannot be guaranteed by the record; vehicle data and owner details need protection.
+
+**First-week test:** Ask two mechanics to record service events for 15 bikes. Test whether owners return with the card and whether mechanics will pay for a simple record system.
+
+## 62. Backup-in-a-Box — phone photo and document backup setup
+
+**Problem:** People may lose important photos and documents when a phone is damaged, lost or reset, and may not understand how to verify a backup.
+
+**Offer and workflow:** Provide a guided, privacy-conscious setup using the customer's chosen existing backup destination or an encrypted local copy where appropriate. Verify a small sample can actually be restored, explain account recovery, and give the customer a written recovery checklist. Do not copy personal files to your own accounts or retain passwords.
+
+**Customers:** Students, families, small businesses, photographers and people changing phones.
+
+**Revenue:** Fixed setup fee, periodic backup-health check, migration assistance and small-business packages.
+
+**Alternatives and differentiation:** Built-in cloud backup, memory cards, USB drives and phone-shop migration services. The differentiator is a verified restore test and clear handover, not a new storage technology.
+
+**Startup cost:** Very low if using the customer's device and existing storage.
+
+**Pros:** Immediate service; no custom app required; can earn per appointment.
+
+**Cons/risks:** Extremely sensitive data; cloud storage may cost money; some devices and apps limit export. Use written consent, let customers enter credentials themselves, and never promise that every app or file can be recovered.
+
+**First-week test:** Offer ten appointments at a fixed scope. Track setup time, restore-test success and referrals. Publish a clear privacy policy before scaling.
+
+## 63. QueueBoard Lite — paper-to-display queue system for small counters
+
+**Problem:** A small clinic reception, repair counter or service desk may rely on verbal queues and repeated questions about whose turn is next.
+
+**Offer and workflow:** Begin with numbered cards and a visible board or a phone/tablet display. Staff advance the queue manually; customers need not install an app. For sensitive environments, show ticket numbers rather than names. Avoid collecting medical details or promising clinically safe triage.
+
+**Customers:** Repair shops, salons, offices, community services and selected reception desks.
+
+**Revenue:** Setup and training, printed ticket supplies, display configuration and support.
+
+**Alternatives and differentiation:** Paper lists, verbal queues and commercial queue systems. The wedge is a very low-cost, assisted setup that fits one counter.
+
+**Startup cost:** Very low; can start with cards and a whiteboard.
+
+**Pros:** Physical demonstration; can sell installation and training before software; easy to measure waiting-time visibility.
+
+**Cons/risks:** Staff must use it consistently; it cannot fairly prioritize people unless an explicit policy exists; privacy and accessibility matter.
+
+**First-week test:** Trial at one non-clinical service counter for three busy periods. Measure lost places, repeated queue enquiries and staff satisfaction.
+
+## 64. MarketPrice Snapshot — weekly price intelligence for one buyer group
+
+**Problem:** Small restaurants, retailers or caterers may purchase frequently but lack a consistent comparison of supplier prices, delivery fees, quantity, quality and availability.
+
+**Offer and workflow:** Pick one narrow category—such as tomatoes, cooking oil, packaging or cleaning supplies. Collect dated quotations from willing suppliers, normalize pack sizes and transport costs, and send a concise comparison. Clearly label quotes as time-sensitive and distinguish reported prices from independently verified offers.
+
+**Customers:** Small restaurants, caterers, retailers, schools and buying groups.
+
+**Revenue:** Subscription for weekly snapshots, sponsored supplier listings with clear disclosure, or a fee for group purchasing coordination.
+
+**Alternatives and differentiation:** Calling suppliers, market visits, WhatsApp groups and existing trade networks. The product is a reliable, comparable, time-stamped dataset for one niche—not a claim to know every market price.
+
+**Startup cost:** Very low: phone, spreadsheet and transport budget.
+
+**Pros:** Manual service can start immediately; repeat weekly need; could later become a data product.
+
+**Cons/risks:** Prices change quickly; supplier quotes may be incomplete; buyers may free-ride; sponsored listings can undermine trust if not disclosed.
+
+**First-week test:** Choose one product category and 10 potential buyers. Send two weekly snapshots and ask for paid continuation before expanding.
+
+## 65. ClaimKit — warranty and repair-claim document organizer
+
+**Problem:** Customers and small businesses can lose invoices, serial numbers, warranty terms and repair reports needed for a claim.
+
+**Offer and workflow:** Organize customer-provided receipts, product details, warranty dates, service contacts and correspondence into a searchable folder and a reminder calendar. The owner retains control of files. Do not promise a claim will be accepted or provide legal representation.
+
+**Customers:** Households, small offices, electronics retailers and equipment owners.
+
+**Revenue:** Per-device setup, household bundle, business asset-register setup and annual review.
+
+**Alternatives and differentiation:** Email folders, paper receipts, cloud drives and manufacturer portals. Differentiate through assisted organization and reminders for people who do not want to configure it themselves.
+
+**Startup cost:** Very low.
+
+**Pros:** Can be sold as a one-time service; useful across many product categories; no new technology required.
+
+**Cons/risks:** Warranty rules vary; reminders can be wrong if dates are entered incorrectly; documents may contain addresses or payment details.
+
+**First-week test:** Organize 10 assets for three consenting customers. Measure retrieval time and whether they pay for reminders or annual updates.
+
+## 66. SmallShop Sign Kit — durable price, instruction and policy signage
+
+**Problem:** Small businesses repeatedly answer the same questions about prices, opening hours, payment methods, return rules or service steps.
+
+**Offer and workflow:** Design and print a small set of consistent signs, price cards, QR links and simple multilingual instructions. Test readability at the actual counter and make the owner approve all prices and policy wording before printing.
+
+**Customers:** Shops, salons, clinics for non-clinical administrative notices, food vendors, repair counters and service desks.
+
+**Revenue:** One-time sign package, replacement prints, seasonal updates and multi-branch standardization.
+
+**Alternatives and differentiation:** Handwritten signs, local print shops, online design templates. Differentiate with fast on-site measurement, coherent design, language support and replacement service.
+
+**Startup cost:** Very low if printing is outsourced after receiving a deposit.
+
+**Pros:** Physical product; can take payment upfront; no inventory required if printing is outsourced.
+
+**Cons/risks:** Competitive; print errors and last-minute changes can erase margin; signage must not make unsupported health, safety or legal claims.
+
+**First-week test:** Show a sample pack to 10 businesses and seek two paid orders with a deposit before printing.
+
+## 67. UsedDevice Proof Sheet — transparent second-hand device condition report
+
+**Problem:** Buyers and sellers of used phones, laptops and small electronics may disagree about battery condition, ports, cameras, screen defects, included accessories and reset status.
+
+**Offer and workflow:** Use a repeatable checklist to record visible condition, supported diagnostic results, serial/IMEI handling where appropriate, accessories and customer-approved photos. Distinguish measured results from untested features. Never bypass security locks, access private content or certify a device as genuine solely from its appearance.
+
+**Customers:** Independent phone shops, refurbishers, repairers, used-device sellers and buyers who want an inspection.
+
+**Revenue:** Per-device inspection, shop-branded reports, bulk pre-sale testing and periodic process training.
+
+**Alternatives and differentiation:** Informal checks, seller assurances, repair-shop inspection and manufacturer diagnostics. The wedge is a standardized, understandable report with explicit limits—not an absolute authenticity guarantee.
+
+**Startup cost:** Very low if you have a phone and access to appropriate test utilities.
+
+**Pros:** Can charge per inspection; strong visual deliverable; can partner with existing sellers.
+
+**Cons/risks:** Test coverage varies by model; some battery metrics are unavailable or unreliable; counterfeit parts and hidden faults may escape detection. Do not promise a warranty or absolute safety.
+
+**First-week test:** Create a checklist for one device family and test 20 devices with a knowledgeable repairer. Track test time, missed issues and whether sellers/buyers will pay for the report.
+
+---
+
+# Opportunity ranking for the stated goal
+
+**Goal:** Earn money as soon as possible, with a very small starting budget, using existing tools/materials, starting locally and retaining global potential.
+
+Scores below are reasoned estimates for prioritization, not measured market statistics. Each dimension is scored 1–5; higher is better. "Fast cash" means ease of getting a paid pilot within roughly 7–14 days, assuming the founder can reach prospects. "Low cost" means little or no custom hardware/software spend. "Repeat" estimates potential repeat purchase or recurring revenue.
+
+| Rank | Concept | Fast cash | Low cost | Repeat | Why it ranks here |
+|---:|---|---:|---:|---:|---|
+| 1 | Stocktake Sprint | 5 | 5 | 4 | A tangible, paid service with a clear deliverable; no app required |
+| 2 | Catalog Rescue | 5 | 5 | 3 | Easy before/after demonstration and fixed-scope packages |
+| 3 | FundiQuote | 4 | 5 | 4 | Solves a repeated workflow for independent service providers |
+| 4 | SmallShop Sign Kit | 4 | 5 | 3 | Can collect a deposit and outsource printing |
+| 5 | UsedDevice Proof Sheet | 4 | 5 | 4 | Per-device service with potential repair-shop partnerships |
+| 6 | Backup-in-a-Box | 4 | 5 | 2 | Immediate customer problem, but high privacy responsibility |
+| 7 | ReturnReady | 3 | 5 | 4 | Stronger fit when a rental operator has recurring disputes |
+| 8 | MobileMoney Matchbook | 3 | 5 | 4 | Repeated need, but accuracy and sensitive financial data raise the bar |
+| 9 | ClaimKit | 3 | 5 | 2 | Simple setup service, but urgency and repeat frequency may be low |
+| 10 | SolarCare Passport | 3 | 5 | 3 | Good installer channel; depends on partner adoption |
+| 11 | LandlordFix Ledger | 3 | 5 | 4 | Recurring operational use, but stakeholder coordination may slow sales |
+| 12 | TailorMeasure Passport | 3 | 5 | 4 | Natural repeat use for tailors with loyal customers |
+| 13 | BodaCare Card | 3 | 5 | 4 | Repeat service potential, but requires mechanic/owner adoption |
+| 14 | QueueBoard Lite | 3 | 4 | 3 | Low-tech trial, but buyer urgency may vary |
+| 15 | MarketPrice Snapshot | 2 | 5 | 4 | Potential recurring data product, but sourcing trustworthy data takes work |
+
+## The three I would test first
+
+### A. Stocktake Sprint — fastest route to a first payment
+
+Start with a service, not an app. Offer a fixed-scope count to one business, deliver a clear report, and ask if the owner wants a follow-up count. This is stronger than starting with a generic inventory app because free and offline-capable competitors already exist.
+
+### B. Catalog Rescue — easiest to demonstrate
+
+Choose one niche such as tailors, salons or small retailers. Deliver a defined set of edited product photos, accurate listings and a better-configured WhatsApp Business profile. WhatsApp already provides many catalog and messaging functions, so the value is the done-for-you result and ongoing upkeep, not the software itself.
+
+### C. FundiQuote — best path toward a repeatable tool
+
+Start with one trade and a reusable quote/completion template. If several fundis use the same workflow and pay for it, turn the repeated parts into a small mobile-first tool. Do not build a broad contractor platform before the manual version proves demand.
+
+## A 7-day validation sprint
+
+1. **Day 1:** Choose one of the three concepts and one specific customer type. Write a one-sentence offer with a defined deliverable.
+2. **Day 2:** Prepare a sample using dummy data or information the owner explicitly permits you to use.
+3. **Days 3–4:** Speak with at least 10 prospects in person or by phone. Ask how they handle the problem today, what goes wrong, and what the problem costs them. Avoid leading questions such as "Would you use my app?"
+4. **Day 5:** Offer a small paid pilot with a clear scope, delivery date and price. Request a deposit when appropriate; do not buy materials on the assumption that a verbal promise will turn into a sale.
+5. **Day 6:** Deliver the work, record actual time and expenses, and ask the customer to review the result.
+6. **Day 7:** Decide using evidence: Did anyone pay? Was delivery profitable after transport and labour? Did the customer ask to repeat or refer you? If not, adjust the customer segment or offer before coding.
+
+### Simple unit-economics check
+
+For each pilot, calculate:
+
+**Contribution per job = money collected − direct materials − transport − transaction charges − paid assistance.**
+
+Then divide contribution by all hours spent selling, travelling, delivering and fixing mistakes. A service that brings in revenue but pays almost nothing per hour is not yet a sound business.
+
+## Research limits and source links
+
+This is desk research, not a complete patent, trademark or competitor search. Product pages establish that alternatives exist; they do not prove how well those alternatives serve a particular Ugandan customer. No customer interviews or live willingness-to-pay tests have been conducted for these concepts.
+
+- Uganda Ministry of Trade, Industry and Cooperatives, *State of Entrepreneurship in Uganda 2024*: https://www.mtic.go.ug/launch-the-state-of-entrepreneurship-in-uganda-2024-report/
+- Research ICT Africa, *Digital Africa post the pandemic: Uganda report* (2025): https://researchictafrica.net/research/digital-africa-post-the-pandemic-uganda-report/
+- Research ICT Africa, *After Access 2022: Uganda* (published 2025): https://researchictafrica.net/wp-content/uploads/2025/10/After-Access_Uganda_Household-report_2022_RIA_2025.pdf
+- WhatsApp Business app features: https://whatsappbusiness.com/products/business-app-features/
+- ChapChap: https://chapchap.co/
+- Jeeni Commerce: https://jeenitech.com/apps/jeeni-commerce/
+- Tradex: https://tradex.vorendo.com/
+
+**Bottom line:** Do not spend your first money on custom electronics, an app developer or branding. Sell one narrowly scoped service, deliver it with existing tools, and let actual payments and repeat requests determine what Goideotic builds next.
