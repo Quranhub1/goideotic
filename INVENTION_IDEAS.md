@@ -1504,6 +1504,205 @@ Copy this for any new concept:
 
 ---
 
+## 51. Mobile money agent and financial services kiosk
+
+**Concept:** A mobile money agent outlet that provides cash-in, cash-out, bill payments, airtime, and basic financial services to a neighborhood or market, earning commissions on every transaction.
+
+**How it works**
+- Register as an agent with a mobile network operator (MNO) or a mobile money aggregator.
+- Maintain float (cash and electronic value) to process customer deposits and withdrawals.
+- Customers pay cash to deposit into their mobile wallets, or withdraw electronic value as cash.
+- Additional services: bill payments (electricity, water, school fees), airtime/data top-ups, merchant payments, micro-loan disbursement and repayment.
+- Earn commission per transaction from the MNO plus convenience fees from customers.
+- Reconcile daily via the agent portal; top up float via bank or super-agent.
+
+**Customers:** Market vendors, boda-boda riders, shopkeepers, households without bank access, salary earners, students.
+
+**Revenue:** Per-transaction commission from MNO, customer convenience fees, bill payment fees, float interest (if held in interest-bearing account), airtime margin.
+
+**Pros:** High daily transaction volume; commissions paid on every transaction; no product inventory risk; works with basic phone; recurring customer base.
+
+**Cons and risks:** Float security and theft risk; liquidity management (running out of cash or e-value); MNO commission changes; regulatory compliance; network downtime; customer disputes over failed transactions.
+
+**First prototype:** Register as an agent with one MNO; operate from a small counter or table for one month; track daily transaction volume, commission earned, float float balance, and customer count.
+
+### Research data (as of 2026)
+
+**Market evidence:** Mobile money is the dominant financial rail in East Africa. In Kenya, ~80% of adults use M-Pesa; agents earn commissions on every cash-in, cash-out, and bill payment. Agent commissions typically range from 0.5% to 3% of transaction value depending on volume and tier. High-volume agents can process hundreds of transactions daily. The model is proven: thousands of agents operate across Kenya, Uganda, Tanzania, and Rwanda. Aggregators (e.g., Lipa Na M-Pesa merchants, Paybill/Till holders) add bill-payment revenue. Mobile money agents are often the only formal financial access point in rural and peri-urban areas.
+
+**Requirements:** MNO agent registration (national ID, business registration, KRA PIN/t tax ID, premises photos); float capital (cash + e-value, typically starting KSh 50,000–200,000 depending on volume target); secure lockable counter/kiosk; basic phone or POS device; receipt book or printer; CCTV or secure storage for float; daily reconciliation process; customer dispute handling procedure; signage and branding.
+
+**Estimated budget:** Lean counter setup: KSh 50,000–150,000 (float, basic phone, lockable box, signage, registration). Small kiosk: KSh 200,000–500,000 (rent deposit, counter, CCTV, float, POS). Key recurring cost: float replenishment and transaction fees.
+
+**Competitors and prior art:** Existing M-Pesa/Airtel Money agents, bank agents, microfinance agents, super-agents, fintech POS operators, informal money changers. Differentiation: longer hours, multiple networks (M-Pesa + Airtel Money), bill payment bundle, airtime/data sales, customer loyalty.
+
+**Revenue model:** MNO transaction commission (per cash-in/cash-out/bill payment), customer convenience fee, airtime/data margin, bill-payment fee, float balance interest.
+
+**Risk mitigation:** Keep float at secure off-site location overnight; limit per-transaction limits; CCTV and secure cash box; daily reconciliation; diversify across networks; maintain float buffer for peak days.
+
+**Next experiment:** Register as an agent with one MNO; operate for one month; track daily transactions, commission per transaction, float balance, and customer retention.
+
+---
+
+## 52. Cold storage rental for fish and meat vendors
+
+**Concept:** Rent cold storage space (freezer and chiller capacity) to fish, meat, and poultry vendors at markets who lack their own refrigeration, reducing spoilage and enabling bulk buying.
+
+**How it works**
+- Install chest freezers and chillers at a market or central collection point.
+- Vendors rent shelf or bin space daily/weekly; pay via cash or mobile money.
+- Temperature monitored and logged; alarms if power fails or temperature rises.
+- Vendor labels and segregates their stock; access controlled.
+- Backup power (generator/inverter) for outages.
+- Monthly/weekly rental fees; penalty for late retrieval or abandoned stock.
+
+**Customers:** Fish vendors, meat butchers, poultry sellers, dairy vendors, small restaurants.
+
+**Revenue:** Rental fee per shelf/bin per day/week, backup power surcharge, handling/loading fee, cold transport add-on.
+
+**Pros:** Reduces vendor spoilage losses; recurring weekly/daily rental; high demand at markets; scalable by adding freezers; works offline with manual logs.
+
+**Cons and risks:** Power outages, equipment failure, temperature excursions, vendor disputes over space, theft, hygiene and food-safety compliance, generator fuel cost.
+
+**First prototype:** Place 2–3 chest freezers at one market stall; rent space to 5–10 vendors for one month; track rental income, spoilage incidents, and power reliability.
+
+### Research data (as of 2026)
+
+**Market evidence:** Fish and meat spoilage is a major daily loss for informal vendors in East Africa. Cold chain gaps cause significant post-harvest and post-slaughter losses. Vendors typically buy early morning and must sell same day; lack of cold storage forces distress pricing. Cold storage rental converts a fixed asset (freezer) into recurring rental income. Similar models exist in Lagos fish markets and Nairobi informal markets where cold rooms are rented per crate/bin.
+
+**Requirements:** Chest freezers and upright chillers (sized to vendor demand); secure market location with power access; backup generator or inverter + battery; temperature monitoring (thermometers/data loggers); vendor registration and space allocation system; cash/mobile-money collection; hygiene cleaning supplies; food-handling permit where required.
+
+**Estimated budget:** Chest freezer: KSh 30,000–80,000 each; chiller: KSh 50,000–120,000; generator/inverter: KSh 50,000–200,000; setup and signage: KSh 20,000–50,000. Lean start: 2–3 freezers, ~KSh 150,000–300,000.
+
+**Competitors and prior art:** Commercial cold rooms (large-scale, industrial), vendor-owned freezers (individual), ice blocks (indirect, short-term), market cold storage cooperatives. Differentiation: small flexible bin/shelf rental, daily/weekly pricing, market-adjacent location, backup power.
+
+**Revenue model:** Per-bin or per-shelf daily/weekly rental, power surcharge, loading/unloading fee, cold-box transport add-on.
+
+**Risk mitigation:** Temperature logs and alarms; backup power; vendor agreements (liability for spoiled stock, access hours); insurance for equipment and stock; regular cleaning schedule.
+
+**Next experiment:** Place 2–3 chest freezers at one market; rent to 5–10 vendors for one month; track rental income, power outages, spoilage claims, and vendor renewal rate.
+
+---
+
+## 53. Waste plastic recycling and upcycling center
+
+**Concept:** Collect, sort, shred, and pelletize waste plastic (PET bottles, HDPE containers, film) and sell recycled pellets or upcycled products (paving tiles, fence posts, furniture) to manufacturers and builders.
+
+**How it works**
+- Collect waste plastic from households, businesses, and waste pickers via collection points or door-to-door.
+- Sort by plastic type (PET, HDPE, PP, LDPE), clean, and shred.
+- Pelletize shredded plastic into recycled granules; or mold into paving tiles, fence posts, or other construction products.
+- Sell pellets to plastic manufacturers; sell upcycled products to builders, landscapers, farmers.
+- Pay collectors by weight; track input/output volumes and quality.
+
+**Customers:** Plastic manufacturers, builders, landscapers, furniture makers, waste pickers (as suppliers).
+
+**Revenue:** Sale of recycled pellets per kg, sale of upcycled products, collection service fee from businesses, plastic credit/waste offset sales.
+
+**Pros:** Addresses plastic waste problem; feedstock often free or low-cost; multiple revenue streams; environmental impact story attracts grants/impact funding.
+
+**Cons and risks:** Plastic price volatility, sorting contamination, equipment cost (shredder, extruder, molds), power consumption, environmental permits, market demand for recycled pellets, fire safety.
+
+**First prototype:** Manual sorting and shredding of PET/HDPE from one collection point; produce test pellets or tiles; sell to one buyer; track input cost, output volume, and sale price per kg.
+
+### Research data (as of 2026)
+
+**Market evidence:** Plastic waste is a growing problem in East African cities; bans on single-use plastics (e.g., Kenya's 2017/2020 bans) increase demand for alternatives. Recycled plastic pellets and upcycled building products (paving tiles, fence posts) have established markets. Companies in Kenya (e.g., Gjenge Makers) produce paving tiles from recycled plastic. Waste pickers supply feedstock at low cost; processors add value through cleaning, shredding, and pelletizing. Global recycled plastic demand is growing with extended producer responsibility (EPR) regulations.
+
+**Requirements:** Collection points or waste-picker network; sorting tables; shredder/granulator; extruder/pelletizer or injection molder (for upcycled products); washing/drying setup; power (3-phase often needed); storage bales/bins; PPE (gloves, masks, goggles); environmental permit; weighing scale; buyer contracts.
+
+**Estimated budget:** Manual shredder + sorting setup: KSh 100,000–300,000. Pelletizing line (extruder): KSh 500,000–2,000,000+. Upcycling molds (tiles/fence posts): KSh 100,000–500,000. Lean start: manual shredding + baling, ~KSh 150,000–400,000.
+
+**Competitors and prior art:** Gjenge Makers (Kenya, plastic paving tiles), other plastic recyclers in Nairobi/Mombasa/Kampala, waste-picker cooperatives, virgin plastic suppliers (indirect), EPR producer responsibility organizations. Differentiation: local collection network, upcycled building products, collector fair pricing, quality-consistent pellets.
+
+**Revenue model:** Recycled pellet sale per kg, upcycled product sale per unit, collection/service fee from businesses, plastic waste offset credits.
+
+**Risk mitigation:** Sort by resin code to avoid contamination; test pellet quality with buyers; secure offtake agreements before scaling; fire safety equipment; environmental compliance; diversify plastic types.
+
+**Next experiment:** Collect and sort PET/HDPE from one neighborhood for one month; shred and produce test pellets/tiles; approach one manufacturer or builder as buyer; track cost per kg and sale price.
+
+---
+
+## 54. Home fumigation and pest control service
+
+**Concept:** A professional pest control service offering fumigation, cockroach/rodent treatment, bedbug elimination, and general fumigation for homes, small offices, hotels, and food establishments.
+
+**How it works**
+- Inspect premises to identify pest type and infestation level.
+- Quote price based on room count, pest type, and treatment method.
+- Apply approved pesticides/fumigants using certified equipment and safety gear.
+- Provide pre-treatment and post-treatment instructions to client.
+- Schedule follow-up visits; offer quarterly maintenance contracts.
+- Keep records of chemicals used, dates, and client feedback.
+
+**Customers:** Households, small hotels/guesthouses, restaurants, schools, offices, landlords.
+
+**Revenue:** Per-room or per-premises treatment fee, quarterly maintenance contract, follow-up visit fee, product sales (sprays, baits).
+
+**Pros:** Recurring pest problems; contracts provide repeat revenue; low equipment cost; can start with one technician; high willingness to pay during infestations.
+
+**Cons and risks:** Pesticide handling safety, regulatory licensing, client preparation requirements, re-infestation, competition from informal operators, chemical resistance, environmental concerns.
+
+**First prototype:** Offer fumigation to 5–10 households or small offices for one month; track jobs completed, revenue per job, re-infestation rate, and client referrals.
+
+### Research data (as of 2026)
+
+**Market evidence:** Urban pest infestations (cockroaches, rodents, bedbugs, termites) are common in East African households and businesses, especially in dense informal settlements and rental properties. Pest control is a regulated service requiring certified applicators and approved chemicals. Demand spikes during rainy seasons and in food-handling premises. Professional services charge per room or per premises; contracts for quarterly treatment are common for hotels and restaurants.
+
+**Requirements:** Pest control license/certification (national environmental/health authority); approved pesticides and fumigants; sprayers/foggers and PPE (respirators, gloves, coveralls); inspection tools (flashlights, mirrors); client consent and safety data sheets; treatment records; vehicle for transport; insurance.
+
+**Estimated budget:** Basic kit (sprayer, PPE, initial chemicals): KSh 50,000–150,000. Licensing and training: KSh 20,000–100,000. Vehicle (motorcycle): KSh 80,000–150,000. Lean start: ~KSh 150,000–300,000.
+
+**Competitors and prior art:** Professional pest control firms (Rentokil, local firms), informal pest operators, hardware-store DIY chemicals (indirect). Differentiation: certified/safe application, documented treatment, follow-up guarantee, maintenance contracts, transparent pricing.
+
+**Revenue model:** Per-treatment fee (per room/premises), quarterly maintenance contract, follow-up visit, pest-control product retail.
+
+**Risk mitigation:** Use only approved chemicals; wear PPE; client pre-treatment checklist (cover food, vacate during treatment); post-treatment re-entry time; maintain treatment logs; liability insurance.
+
+**Next experiment:** Treat 5–10 premises for one month; track jobs, revenue per job, callback/re-infestation rate, and client willingness to sign a quarterly contract.
+
+---
+
+## 55. Event portable toilet rental
+
+**Concept:** Rent portable toilets (chemical toilets) and handwashing stations for events (weddings, funerals, concerts, sports) and construction sites, with delivery, setup, servicing, and collection.
+
+**How it works**
+- Maintain a fleet of portable toilet units and handwashing stations.
+- Deliver and install units at event venue or construction site before the event.
+- Service units during multi-day events (waste pumping, restocking, cleaning).
+- Collect units after the event; clean and sanitize at depot.
+- Charge per unit per day/event plus delivery, setup, and servicing fees.
+- Track unit utilization, location, and condition.
+
+**Customers:** Event organizers, wedding planners, churches, construction firms, festival organizers, local government.
+
+**Revenue:** Per-unit rental per day/event, delivery/setup fee, servicing/pumping fee, handwashing station add-on, damage deposit.
+
+**Pros:** Events happen constantly; recurring construction-site demand; high margins on units; scalable by adding units; works without plumbing.
+
+**Cons and risks:** Unit damage/theft, waste disposal regulations, cleaning labor, transport costs, seasonality (event demand), competition from existing rental firms, permits for public events.
+
+**First prototype:** Buy or fabricate 3–5 portable toilets; rent to 2–3 events for one month; track rental days, servicing cost, unit condition, and revenue per unit.
+
+### Research data (as of 2026)
+
+**Market evidence:** Events (weddings, funerals, concerts, church programs, sports tournaments) are frequent in East Africa and often lack adequate sanitation, especially outdoors. Construction sites also need temporary toilets. Portable toilet rental is an established service in Nairobi, Kampala, and Dar es Salaam, with demand peaking during holiday and wedding seasons. Units are typically rented per day with delivery and servicing charges.
+
+**Requirements:** Portable toilet units (fabricated or purchased), handwashing stations, waste vacuum/pumping truck or arrangement with exhausters, cleaning supplies, delivery truck/tricycle, depot for cleaning/storage, waste disposal agreement (NEMA/licensed exhauster), rental contracts, insurance.
+
+**Estimated budget:** Portable toilet unit: KSh 25,000–60,000 each (fabricated) or KSh 50,000–100,000 (imported); handwashing station: KSh 10,000–25,000; delivery vehicle: KSh 150,000–400,000; cleaning/pumping arrangement: variable. Lean start: 3–5 units + arrangement with exhauster, ~KSh 200,000–500,000.
+
+**Competitors and prior art:** Existing portable toilet rental companies, construction-site toilet providers, permanent public toilets (indirect), open defecation (indirect). Differentiation: reliable servicing, clean units, handwashing add-on, event-specific packages, construction-site contracts.
+
+**Revenue model:** Per-unit per-day rental, delivery/setup fee, servicing/pumping fee, handwashing station rental, damage deposit.
+
+**Risk mitigation:** Written rental contracts; damage deposits; scheduled servicing; licensed waste disposal; unit tracking and condition photos; insurance for transport and units.
+
+**Next experiment:** Acquire 3–5 portable toilets; rent to 2–3 events for one month; track unit-days rented, servicing cost, damage/loss, and customer rehire rate.
+
+---
+
 ## Updating the comparison table
 
 Add these rows to the comparison table when prioritizing:
@@ -1538,3 +1737,8 @@ Add these rows to the comparison table when prioritizing:
 | Goat/sheep fattening service | Medium | Medium | Sale margin + feeding fee |
 | Water purification refill | Medium–high | Medium | Per-liter refill + bottles |
 | Local-language gig board | Low | Low | Per-gig commission + subscription |
+| Mobile money agent kiosk | Low–medium | Low | Transaction commission + convenience fees |
+| Cold storage rental | Medium | Low–medium | Per-bin/day rental + power surcharge |
+| Waste plastic recycling | Medium–high | Medium | Pellet/product sale + collection fee |
+| Home fumigation service | Low | Low | Per-treatment fee + maintenance contract |
+| Event portable toilet rental | Medium | Low–medium | Per-unit/day rental + delivery + servicing |
