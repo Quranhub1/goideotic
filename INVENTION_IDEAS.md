@@ -696,6 +696,22 @@ Copy this for any new concept:
 
 **First prototype:** Source one popular part for one phone model for 5–10 technicians and measure order accuracy and delivery time.
 
+### Research data (as of 2026)
+
+**Market evidence:** Electronics repair and refurbishment is a large and growing market in Africa. Revivo, a Nairobi-based B2B marketplace for electronics spare parts and refurbished devices founded in 2022 by Sarah Johnson, raised US$635,000 pre-seed (July 2023) led by Raba Partnership with Village Global, Musha Ventures, and Satgana; it has sold over 45,000 products to thousands of customers and estimates Kenya's electronics repair/refurbishment market at US$1 billion (US$25.7 billion across Africa). Revivo's surveys found 94% of respondents experienced challenges getting repairs, including difficulty finding the right spare part among ~15,000 SKUs and distrust of quality/origin. The company offers a 1-year warranty, verified suppliers, transparent pricing, learning materials, and embedded financing. Computer Village (Lagos) is a pan-African tech marketplace with 12k+ verified merchants, 3.5k+ repair technicians, ₦8B+ traded, offering repair quotes, wholesale B2B sourcing, and secure payments (Flutterwave/Paystack/Stripe, escrow coming). Fix My Gadget (South Africa) runs a WhatsApp-led parts network with an optional "verified desk" that inspects parts before release and holds payment in escrow. SparesX is a mobile spare-parts marketplace for technicians organized by category (displays, motherboards, batteries, charging ports, etc.).
+
+**Requirements:** Parts catalogue organized by phone model and part type (screens, batteries, chargers, ICs, flexes, cameras); supplier onboarding and verification; symptom-to-parts guide so technicians order the right part; ratings on suppliers and parts; optional escrow/verified-desk inspection; WhatsApp or web ordering; logistics/shipping to technicians; transparent pricing; quality standards and warranty handling; records of orders, returns, and supplier performance.
+
+**Estimated budget:** Can start very lean as a WhatsApp/parts-broker model with minimal software. A simple web marketplace (catalogue, orders, payments, supplier/dashboard): modest build cost. Revivo's trajectory (US$635k pre-seed to scale) indicates a full platform needs meaningful capital, but a prototype can start with one part type and a handful of technicians. Key costs: supplier sourcing, part inventory/float, logistics, escrow/payment processing, basic website or WhatsApp business catalog.
+
+**Competitors and prior art:** Revivo (Kenya), Computer Village (pan-Africa), Fix My Gadget (South Africa), SparesX, local phone-repair shops that already sell parts, wholesale parts importers, online classifieds. Differentiation: verified quality, symptom-to-parts guide, escrow, technician-focused B2B, embedded financing, ratings reducing trial-and-error.
+
+**Revenue model:** Parts markup, supplier listing/featured-listing fees, premium parts catalog, verification/escrow fees, advertising, embedded-financing facilitation.
+
+**Risk mitigation:** Verify supplier identity and part quality; inspect high-value or sensitive parts before release; hold payment in escrow until technician confirms receipt; separate functional/cosmetic grading; conservative pricing to allow for defective parts.
+
+**Next experiment:** Source one popular part for one phone model for 5–10 technicians; measure order accuracy, delivery time, technician satisfaction, and whether they'd pay a markup/fee for the service.
+
 ---
 
 ## 27. Event seating and ticketing for small venues
@@ -718,6 +734,22 @@ Copy this for any new concept:
 **Cons and risks:** Cash handling, no-shows, internet outages at venue, existing free tools, price sensitivity.
 
 **First prototype:** Run ticketing for one church service or community event with 50–100 tickets; compare collection speed and reconciliation vs. manual.
+
+### Research data (as of 2026)
+
+**Market evidence:** Event ticketing is an established and growing service in Nigeria and East Africa. EventRich (Nigeria) offers per-event plans (Free up to 20 attendees; Basic ₦10k/$7 per event up to 100; Launch ₦20k up to 200; Ultra ₦100k/$65 unlimited), with direct payouts to Paystack/Flutterwave, auto proof matching, QR check-in, budget tracking, and WhatsApp/email broadcasts. Eventbuddy (Africa) charges tiered per-ticket fees: Launch free to start (5% + ₦100 per paid ticket), Grow ₦15,000/month (4% + ₦100), Scale ₦45,000/month (3% + ₦100), all with QR codes, Paystack, payouts, staff check-in accounts, and analytics. Pevent (Nigeria) sells tickets online with QR check-in and bank payouts; free tickets cost nothing, with a flat per-ticket fee. Eventeel (Nigeria) is free for the first 25 guests, handling RSVPs, payments (card/transfer/USSD/mobile money via Flutterwave), check-in, and payouts. Musskart (Nigeria) quotes platform build costs: basic ₦2M–₦4M (6–10 weeks), standard ₦4M–₦8M (10–14 weeks), enterprise ₦8M–₦18M+ (14–18 weeks) with reserved seating and white-label storefronts. Entria4Events charges per-event plans: Guest Access ₦90,000 (up to 150 guests), Premium Ticketing ₦170,000 (up to 300), Signature ₦410,000 (up to 750), Enterprise custom. Nigeria's live-events economy (Detty December in Lagos, weddings/owambe, churches, conferences) drives demand for online checkout, e-tickets, and gate scanners, replacing manual bank transfers and WhatsApp guest lists.
+
+**Requirements:** Event creation with ticket types and pricing; online checkout (Paystack/Flutterwave/card/mobile money/bank transfer); QR e-ticket generation and delivery (email/SMS/WhatsApp); check-in scanner app (web or mobile, offline-capable); organizer dashboard with sales and check-in stats; payouts to organizer bank account; seat-map or general-admission options; promo/discount codes; refund handling; SMS/WhatsApp notifications; no-show and cash-handling policies; internet-outage fallback (offline check-in, manual lists).
+
+**Estimated budget:** Lean: use an existing per-event platform (EventRich free/₦10k–₦100k per event; Eventbuddy 5% + ₦100 per ticket; Pevent flat per-ticket fee) with no build cost. Custom platform: ₦2M–₦4M basic MVP (6–10 weeks), ₦4M–₦8M standard (10–14 weeks), ₦8M–₦18M+ enterprise (14–18 weeks). Recurring: payment-gateway fees, SMS/WhatsApp notification costs, hosting, scanner devices.
+
+**Competitors and prior art:** EventRich, Eventbuddy, Pevent, Eventeel, Entria4Events, Tix Africa, Tixvnt, Jetron, Syticks, Musskart-built platforms, plus manual bank transfer + WhatsApp guest lists (the main informal competition). Differentiation: per-event pricing (no monthly commitment), church/religious event features (free/donation seating, bulk broadcasts), offline check-in, QR duplicate prevention, local mobile-money integration.
+
+**Revenue model:** Per-ticket fee, per-event platform fee, subscription for regular organizers (lower per-ticket rate), featured listings, on-ground support, scanner rental.
+
+**Risk mitigation:** Auto stock logic prevents overselling; QR scanning prevents duplicate entry; clear refund policy; payout schedule; offline check-in fallback; manual reconciliation for bank transfers.
+
+**Next experiment:** Run ticketing for one church service or community event with 50–100 tickets using an existing per-event platform; compare collection speed, reconciliation, and no-show rate vs. manual; gather organizer willingness to pay.
 
 ---
 
@@ -820,6 +852,22 @@ Copy this for any new concept:
 
 **First prototype:** Record 10 tips in one language for one crop; offer via a phone line or WhatsApp group to 20 farmers; measure replay rate and willingness to pay.
 
+### Research data (as of 2026)
+
+**Market evidence:** Local-language agricultural advisory via basic phone is a proven and funded category in Africa. Rafiki AI (Rafiki Farmer) delivers agricultural advisory in local languages via USSD, SMS, WhatsApp, and voice (Swahili, Hausa, French) from USD 399/month, with in-chat mobile-money payments (Flutterwave/Paystack) and voice IVR in African languages. Kilimo.io's Maarifa™ delivers mobile-first agricultural training via SMS lessons (160 chars), IVR voice courses in Swahili/Sukuma/Chaga and seven more languages, and WhatsApp tutor bots, with quizzes and certificates. Zowasel (*7199# USSD, IVR) provides offline digital extension and price discovery in Hausa, Yoruba, and Nigerian Pidgin for feature-phone farmers, with 10,000+ voice/SMS broadcasts, 32 value chains, and content in English/Hausa/Yoruba/Pidgin/Swahili; funded by Mercy Corps AgriFin. Crop2Cash (Nigeria) launched an AI-powered IVR National Hotline for Agriculture (July 2024) with toll-free voice in Yoruba, Hausa, and English (10 more planned), personalized advice on crops/weather/pests, and two-way farmer interaction. Govi Mithuru offers IVR subscription (90% of subscribers choose IVR over app) customized by climate zone, location, crop cycle, and irrigation type. Airtel Kilimo (Kenya, GSMA-supported with US$400k matched grant) offers crop/weather/market-price info via USSD *760# in English and Kiswahili, covering maize, amaranth, banana, beans, cabbage, coffee, mango, rice, passion fruit, tomato. GSMA Mobile for Development documents these Agri VAS models. These show farmers will use voice/USSD advisory without smartphones or data, and subscription/pay-per-use models are viable.
+
+**Requirements:** Content production (local-language agronomists recording 2–5 minute tips); recording/editing tools; content management system; delivery channels (USSD short code, IVR toll-free line, SMS, WhatsApp bot); mobile-money payment integration (pay-per-tip or weekly subscription); crop/season/language organization; replay-rate and willingness-to-pay tracking; language coverage plan; local standards for thresholds (avoid overclaiming safety).
+
+**Estimated budget:** Lean prototype: recording equipment, one language, one crop, WhatsApp group or simple phone line — low cost (mainly labor/airtime). IVR/USSD platform: setup plus per-message/minute telco costs; Rafiki-style from USD 399/month. SMS bulk messaging costs. Mobile-money transaction fees. Content production is the main recurring cost (local-language agronomists).
+
+**Competitors and prior art:** Rafiki AI, Kilimo Maarifa, Zowasel *7199#, Crop2Cash IVR hotline, Govi Mithuru, Airtel Kilimo, free radio agricultural programs (indirect competition), extension officers. Differentiation: local-language audio, pay-per-tip/subscription via mobile money, feature-phone compatible, crop-specific and seasonal, replay tracking.
+
+**Revenue model:** Per-call/per-tip charge, weekly/monthly subscription via mobile money, sponsored tips from input companies, bulk SMS/voice broadcast fees.
+
+**Risk mitigation:** Source thresholds from relevant standards; recommend laboratory testing where safety can't be established; avoid broad potable-water/safety claims; start with one crop and one language to validate before expanding.
+
+**Next experiment:** Record 10 tips in one language for one crop; offer via a phone line or WhatsApp group to 20 farmers; measure replay rate and willingness to pay.
+
 ---
 
 ## 31. Boda-boda booking and safety platform
@@ -889,6 +937,22 @@ Copy this for any new concept:
 
 **First prototype:** Monitor one community grain store for one harvest cycle; compare spoilage and moisture levels with and without alerts.
 
+### Research data (as of 2026)
+
+**Market evidence:** Post-harvest grain loss is a major problem in Sub-Saharan Africa (estimated 10–20% of grain lost; up to 40% in some contexts due to inadequate storage and pests). Smart-silo and grain-storage-as-a-service models are active. Silo Africa (SiloSense on the FAO STI portal) deploys solar-powered hermetic smart silos with IoT sensors tracking temperature, humidity, CO₂, and fill levels, relayed via GSM/LoRa to a mobile app or USSD; offers Storage-as-a-Service (seasonal/monthly lease, mobile-money installments, grain barter, group purchase) and digital inventory connecting farmers to banks, insurers, and bulk buyers; operating in Kenya's Rift Valley, Western, Central regions, scaling to Uganda, Tanzania, Ethiopia. Silo Africa's pitch deck: 20-bag silo at $279 one-time, pays for itself in 1–2 seasons if 30% of grain losses prevented; lease-as-a-service at $0.60–$0.75/bag; pay-as-you-store. GrainMate (Sesi Technologies / MIT Solve) is a grain moisture meter costing ~USD 45–60, supports 10 grain types (corn, rice, sorghum, wheat, soybean, millet), targets mold risk above 13.5% moisture. A Nakuru County study (2022–2023) of a low-cost capacitance moisture meter (BOM below KES 2,500) found mean accuracy 96.3%, 40 smallholder farms, 7.4% average reduction in post-harvest price penalty; farmers face a 6–11% price penalty for not measuring moisture. Commercial moisture meters KES 15,000–65,000 (out of reach for sub-5-acre farms).
+
+**Requirements:** Hermetic or improved storage bags/silos; moisture and temperature sensors (IoT or manual moisture meters); calibration against oven-drying reference; power for monitoring (solar/battery for IoT); data relay (GSM/LoRa/USSD/app or manual logbook); drying/aeration capacity for high-moisture grain; warehouse security; records per farmer (bags stored, moisture, duration); storage fees per bag/kg per month; quality standards and rejection criteria.
+
+**Estimated budget:** Low-cost moisture meter BOM below KES 2,500 (research prototype); commercial meters KES 15,000–65,000. GrainMate ~USD 45–60. Silo 20-bag unit $279 one-time or $0.60–$0.75/bag lease. A lean prototype: hermetic bags + manual moisture meter + logbook at one community store; low capital. IoT silo system: higher capital (sensors, solar, connectivity, platform).
+
+**Competitors and prior art:** Silo Africa/SiloSense (Kenya, scaling E. Africa), GrainMate (Sesi Technologies), hermetic bag suppliers (PICS bags), traditional granaries/jute bags/metal drums, chemical fumigation (indirect), warehouse-receipt systems (IFAD), NGO/donor post-harvest-loss programs. Differentiation: moisture + temperature monitoring with alerts, storage-as-a-service, digital inventory for credit access, local-language alerts.
+
+**Revenue model:** Storage fees per bag or per kg per month, drying service, monitoring/subscription fee, moisture-meter sale/rental, quality-certification fee for market access.
+
+**Risk mitigation:** Sensor calibration and placement (moisture varies within a bin), power backup for IoT, warehouse security, farmer trust in shared storage, avoid overclaiming food safety (recommend lab testing where needed).
+
+**Next experiment:** Monitor one community grain store for one harvest cycle; compare spoilage and moisture levels with and without alerts; track storage fees collected and farmer retention.
+
 ---
 
 ## 34. Milk collection and cooling center management
@@ -935,6 +999,26 @@ Copy this for any new concept:
 
 **First prototype:** Build or rent one press, produce and test 100 blocks, and compare strength and cost against market bricks.
 
+### Research data (as of 2026)
+
+**Market evidence:** Stabilized soil brick (SSB)/compressed stabilized earth block (CSEB) production is a proven small-scale building-materials business in Africa. A Teach a Man to Fish SSB guide estimates startup costs of US$2,000–3,000 (press US$900, transport US$1,000, wheelbarrows/tools US$100, contingency US$200), with monthly production of 10,000 bricks at ~US$1,005 operational cost (cement 84 bags × US$10, plastic sheeting, maintenance) and revenue of US$2,500 at US$0.25/brick → ~US$1,495 profit/month, profitability in 3–6 months. Makiga (Kenya) sells a stabilized soil block press at ~US$996 (100,000 KES) for interlocking/non-interlocking blocks; competitors include Hydraform, Adopress, Terrabric. CCE Online News (2026) estimates small-to-medium block-making startup: Nigeria ₦3.4M–₦9.8M, Kenya KES 430K–1.32M, South Africa ZAR 73K–260K (semi-auto machine, mixer, land, materials, borehole, working capital). Okhantu (South Africa, 2026): small-scale manual production R100,000–R300,000 startup (machine R30k–150k, mixer R15k–50k, moulds R10k–30k, site prep R20k–50k, materials R30k–80k, tools R10k–30k, working capital R30k–100k), producing 500–2,000 blocks/day, monthly revenue R50k–R150k. Business Day Ghana (2015): LafargeHolcim's DuraBric distributed ~12 hand-operated presses in Tanzania, Rwanda, Cameroon, Zambia at ~US$2,000 to manufacture, lent free with cement purchase condition; soil-stabilized bricks can save 20–30% on project cost vs. burnt bricks. Cement is the largest direct cost; 1:8 cement:sand ratio yields ~21 blocks per 50kg bag. Key success factors: site near construction demand and raw materials (sand, soil), dry level land for curing, water access, mix consistency, strength testing.
+
+**Requirements:** Brick press (manual or semi-automatic), moulds, concrete mixer (optional), sub-soil/sand source, cement, water + curing area, dry level land, wheelbarrows/shovels/pallets, plastic sheeting for covering, strength-testing method (compressive crush test), site near construction demand, transport for deliveries, business registration/trade licence.
+
+**Estimated budget:** Lean manual press: US$2,000–3,000 (Teach a Man to Fish/Uganda) or R100,000–R300,000 (South Africa small-scale) or KES 430K–1.32M (Kenya small-to-medium). Per-block cost competitive with fired bricks; profit ~US$0.15/brick in the Uganda example.
+
+**Competitors and prior art:** Makiga, Hydraform, Adopress, Terrabric, EarthTek, Comac, Kickstart, local block yards, imported/factory concrete blocks, burnt clay bricks, DuraBric/LafargeHolcim presses. Differentiation: stabilized soil bricks (lower cost, less mortar, green), on-site soil, quality-strength testing and certification, interlocking blocks.
+
+**Revenue model:** Per-block sale, mould/machine rental, mix-recipe consulting, delivery, quality-testing fee.
+
+**Safety notes:** Press operation safety, correct soil:sand:cement ratio (weak bricks are a structural hazard), curing quality, PPE for operators.
+
+**Next experiment:** Build or rent one press, produce and test 100 blocks, compare compressive strength and cost vs. market bricks; get builder feedback on quality and price.
+
+---
+
+## 36. Insecticide-treated net subscription and replacement reminder
+
 ---
 
 ## 36. Insecticide-treated net subscription and replacement reminder
@@ -957,6 +1041,26 @@ Copy this for any new concept:
 **Cons and risks:** Net quality and insecticide efficacy, distribution logistics, customer recall, competition from free or subsidized nets.
 
 **First prototype:** Sell or subscribe 20–50 nets in one village with SMS reminders; measure collection rate and repeat subscription after one year.
+
+### Research data (as of 2026)
+
+**Market evidence:** Insecticide-treated nets (ITNs/LLINs) are a proven malaria-prevention product, but sustained commercial replacement markets are difficult. The Tanzanian National Voucher Scheme (TNVS, 2004–2014) used vouchers for pregnant women/children; the fixed top-up (TSH 500 / ~US$0.30) did not redevelop a sustainable commercial LLIN market, leading to a hybrid voucher model (2013) with retail price TSH 9,750 (~US$6.10) and supplier payment USD 5.80/voucher plus distribution premium. LLIN cost data: mass distribution US$4.37–4.61/net; continuous distribution channels US$3.56–9.90/net (provider perspective); Against Malaria Foundation estimates US$5.19 per net purchased/distributed (US$4.89 excluding in-kind). LSHTM research found financial cost per ITN delivered (US$9.60) exceeded consumer price (US$5 average), not financially sustainable without subsidy. Malaria Consortium supported commercial ITN markets in Uganda, Mozambique, Nigeria with seed stock, credit lines, per-LLIN distribution support, brand advertising, and consumer price support. MosquitAI (2026) proposes a net-as-a-service subscription at £350/year (~£0.95/night) — an illustrative premium model. Nets lose insecticide effectiveness over time/washes, creating a genuine replacement need, but free/subsidized mass campaigns compete with paid models and customer recall is a challenge.
+
+**Requirements:** Quality LLINs (WHO-prequalified, long-lasting insecticidal), reliable supplier/manufacturer, SMS reminder system, delivery/distribution logistics, customer records (village, net issue date, replacement due date), subscription/mobile-money payment collection, quality verification (insecticide efficacy), reuse/disposal guidance for old nets.
+
+**Estimated budget:** Net cost ~US$5–6 each (wholesale); 20–50 net prototype = US$100–300 inventory plus SMS airtime, transport, and record-keeping. Sustainability is the key question: delivery cost per net can exceed consumer price, so subscription price must cover net + logistics + reminders, likely requiring volume or subsidy/partner funding.
+
+**Competitors and prior art:** Mass free LLIN campaigns (Against Malaria Foundation, Global Fund, government), TNVS/voucher models (Tanzania), Malaria Consortium commercial-market support, retail LLIN shops, untreated nets (lower protection), MosquitAI net-as-a-service (illustrative). Differentiation: scheduled replacement with SMS reminders, subscription convenience, quality-assured nets, village-level trust.
+
+**Revenue model:** Net sale or subscription fee (per net per 6–12 months), SMS reminder service fee, bulk supply to clinics/NGOs, delivery fee.
+
+**Risk mitigation:** Source WHO-prequalified LLINs; verify insecticide efficacy; manage customer recall via SMS; price to cover net + logistics; consider NGO/health-partner subsidies; avoid competing directly with free mass campaigns in the same area.
+
+**Next experiment:** Sell or subscribe 20–50 nets in one village with SMS reminders; measure collection rate, repeat subscription after one year, and whether customers will pay full replacement cost vs. need subsidy.
+
+---
+
+## 37. LPG cylinder exchange and level monitoring
 
 ---
 
@@ -981,6 +1085,22 @@ Copy this for any new concept:
 
 **First prototype:** Run one exchange depot with 20–30 cylinders for one month; track swaps, deposits, refill cost, and safety incidents.
 
+### Research data (as of 2026)
+
+**Market evidence:** LPG cylinder retail and exchange in Kenya is tightly regulated by the Energy and Petroleum Regulatory Authority (EPRA) under the Petroleum Act (Cap. 308) and the Petroleum (Liquefied Petroleum Gas) Regulations, 2025. EPRA's Safety Requirements Notice mandates: a valid EPRA license for retail/wholesale of LPG in cylinders; written consent from the legally registered brand owner (notified to EPRA); valid fire certificate; calibrated weighing scale; receipt bearing cylinder particulars for each sale; adherence to Kenya Standard KS EAS 924-1:2018 (storage/filling sites for refillable LPG containers ≤150 litres); well-ventilated secure storage segregated full/empty cylinders; cylinders transported upright (max 6 cylinders of 6kg or 4 of 13kg per two-wheeler); stacking limits (4 for 6kg, 2 for 13kg); safety signage (no smoking/ignition); record-keeping per cylinder (brand, serial numbers, net weight, unit/total price, deposit). EPRA's Retail Guidelines require: licence for retail of LPG in cylinders, weighing-scale calibration certificate, DOSHS workplace registration, county fire-safety compliance certificate, brand-owner authorization, environmental/public health approvals for Tier III outlets, risk assessment report. Outlets classified by tier: Tier I <7 m² / up to 150 kg (low risk), Tier II 7–15 m² / up to 400 kg (medium), Tier III >15 m² / up to 1,000 kg (high). Siting restrictions: no basements, enclosed corridors, upper floors, near drains/hollows; distance from sensitive occupancy (hospitals, schools, stadiums, places of worship). LPG storage-and-filling licence application requires certificate of incorporation, CR12, director IDs, tax compliance certificate, single business permit, proof of storage facility ownership/lease, proof of ≥5,000 cylinders or brand-owner filling authority, NEMA EIA licence, fire clearance, KEBS conformity letter, physical-planning compliance, DOSHS workplace registration, weigh-scale calibration, tank examination/calibration certificates, weighbridge access, emergency response plan, employee safety training, ATEX-rated CCTV. South Africa's LPG guide similarly requires flammable-substance certificates, gas CoC, fire equipment, operator training, cylinder-owner agreements.
+
+**Requirements:** EPRA LPG retail licence (Kenya) or equivalent national regulator licence; brand-owner authorization for cylinders; calibrated weighing scale; fire certificate; county single business permit; fire-safety compliance; secure ventilated storage cage/kiosk; cylinders (6kg/13kg common); refill-plant access or supply agreement; mobile-money/cash collection; deposit system; cylinder condition/requalification checks; safety signage; record-keeping; emergency response plan; trained staff.
+
+**Estimated budget:** Varies by tier and country. Key costs: EPRA/application fees, cylinders (capital-intensive — ≥5,000 cylinders for filling licence, less for exchange/retail), storage cage/kiosk, weighing scale, safety equipment (fire extinguishers, signage), brand-owner deposits, working capital for LPG refills, transport (two-wheeler limited to 6×6kg or 4×13kg cylinders). Licensing and compliance are significant upfront costs; starting as a Tier I exchange/retail depot (up to 150 kg) lowers the bar.
+
+**Competitors and prior art:** Authorized LPG brand retailers/depot operators, petrol-station LPG outlets, informal cylinder refillers (unregulated/unsafe), charcoal and firewood (indirect cooking fuels), electric pressure cookers (indirect). Differentiation: cylinder exchange (swap empty for full) suits cash-constrained customers, level indicator to avoid run-out, regulated/safe operation, deposit system, delivery option.
+
+**Revenue model:** Cylinder deposit, refill/exchange fee, delivery fee, level-indicator sale, exchange subscription.
+
+**Risk mitigation:** Operate only with valid EPRA licence and brand authorization; use calibrated scale and issue receipts; store cylinders upright, segregated, ventilated, away from ignition; transport limits; staff safety training; emergency response plan; regular cylinder requalification/inspection; never operate an unvalidated shutoff or filling system.
+
+**Next experiment:** Run one exchange depot with 20–30 cylinders for one month; track swaps, deposits, refill cost, and safety incidents; confirm licensing requirements with EPRA before scaling.
+
 ---
 
 ## 38. Pharmacy inventory and expiry alert system
@@ -1002,7 +1122,47 @@ Copy this for any new concept:
 
 **Cons and risks:** Staff data-entry burden, existing manual ledgers are free, regulatory record requirements, phone or tablet cost for small shops.
 
-**First prototype:** Track one drug shop's inventory for one month; measure expired stock avoided and time saved vs. manual logs.
+**First prototype:** Serve 10–15 riders at one depot weekly for one month; track repairs done, parts used, subscription renewal, and downtime avoided.
+
+### Research data (as of 2026)
+
+**Market evidence:** Bicycle/e-bike subscription and servicing for delivery riders is an active market in East Africa. eBee (Kenya, founded 2019) offers the Nyuki electric bicycle for delivery under a vehicle-as-a-service subscription: daily rate KES 350, B2B leasing KES 9,500/month (includes maintenance and servicing), lease-to-own option, outright purchase KES 99,000 (battery + charger); up to 90 km range, 80 kg carrier load, battery charges in ~2 hours, monthly maintenance for brakes/gears; assembled locally in Limuru, Kiambu (~85% local materials). Engineering For Change lists eBee at ~US$16.85/week vehicle cost plus ~US$6.32/week e-fuel (July 2022), with local "e-mechanics" for maintenance and locally compatible spare parts. Spiro (Benin, Togo, Rwanda, Kenya) places 10,000+ e-bikes with battery-swap stations (~600 stations); riders pay daily fee ~3,200 CFA (US$5.32) for up to 7 swaps (insurance + maintenance included), additional swap 500 CFA; ownership after 150,000 km; raised US$143M, capital-intensive (~US$150M per 10,000 bikes per country). Wahu Mobility (Ghana) e-bike subscribe-to-own: GHS 700 starter fee + GHS 420/week for 78 weeks (18 months), bundles bike/service/insurance/training, charging ~GHS 35/week vs petrol GHS 280/week. These models show delivery riders will pay weekly/daily subscriptions for maintained two-wheelers; bicycle repair fits between pure e-bike leasing and informal roadside repair.
+
+**Requirements:** Mechanic(s) with bicycle/e-bike repair skills; stock of common parts (tires, tubes, chains, brakes, cables, lights, batteries for e-bikes); workshop or mobile repair kit; depot/market fixed service point with schedule; subscription and parts-payment tracking (mobile money); loaner-bike arrangement or workshop referral for serious issues; parts quality control (avoid counterfeit); records per rider (repairs, parts, subscription status, downtime); weather/rain plan for outdoor service points.
+
+**Estimated budget:** Lean: mechanic time + basic tool kit + initial parts inventory (tires, tubes, chains, brake pads) — low capital, scalable per rider served. Workshop/rent at depot adds rent. e-Bike-specific parts (batteries, controllers) cost more. Subscription pricing should cover parts markup + mechanic labour + a margin; eBee's KES 9,500/month lease (incl. maintenance) is a pricing reference for the full bike, while a repair-only subscription would be lower.
+
+**Competitors and prior art:** eBee, Spiro, Wahu (e-bike leasing with maintenance), local bicycle repair shops, roadside mechanics, spare-parts dealers, motorcycle bodas (indirect competition for delivery work). Differentiation: subscription pricing, scheduled depot service, parts stock, delivery-rider focus, loaner option, renewal tracking.
+
+**Revenue model:** Weekly/monthly subscription fee, parts markup, emergency call-out fee, loaner-bike rental, bulk parts supply to riders.
+
+**Risk mitigation:** Stock fast-moving parts only initially; verify part quality; rider payment reliability (mobile money prepayment or weekly collection); mechanic reliability; weather-proof service point; track downtime avoided as the value proof.
+
+**Next experiment:** Serve 10–15 riders at one depot weekly for one month; track repairs done, parts used, subscription renewal rate, and downtime avoided vs. informal repair.
+
+---
+
+## 42. Second-hand clothes (mitumba) sorting and resale stall
+
+### Research data (as of 2026)
+
+**Market evidence:** Pharmacy inventory and expiry-management software is an established category in East Africa. PharmaYetu (Tanzania, Kenya, Uganda) is trusted by 500+ pharmacies, tracks 4,000+ products per pharmacy, offers smart inventory with batch/expiry tracking and automatic low-stock alerts, expiry and reorder alerts, POS, mobile-money ready, offline-first, Swahili/English. Upharmasys (Kampala-based) serves Uganda, Kenya, Tanzania with batch/expiry tracking, FEFO (first-expired-first-out), low-stock and near-expiry alerts, mobile money, offline operation. DawaSoft POS (Kenya) trusted by 200+ pharmacies, expiry date tracking with 30/60/90-day automatic alerts, colour-coded dashboard, setup fee KES 6,500, Starter KES 1,500/month (single-counter chemists, up to 1,000 items, M-Pesa integration). PharmaTrack (Kenya) from KES 1,500/month, FEFO dispensing, 90-day expiry alerts, M-Pesa STK push, offline-first, PPB compliance paperwork. Imforia (Tanzania) batch/expiry tracking across branches, low-stock flags, push notifications, multi-branch. FK Pharmacy (Tanzania) TZS 10,000–15,000/month, expiry alerts, barcode scanning. SmartPharm (Uganda) Basic UGX 58,000/month, offline till 48 hours, batch/expiry tracking, first-expiry sells first, NDA registers, expiry report with value at cost. Pharmasoft (Nigeria) N19,800/month, expiry date and automatic notification, reorder levels. These show a real market: small pharmacies/drug shops lose money to expired stock and stockouts, and existing software is sold at KES 1,500–4,500/month (Kenya), UGX 58,000/month (Uganda), TZS 10,000–15,000/month (Tanzania), N19,800/month (Nigeria), with setup fees around KES 6,500.
+
+**Requirements:** Product catalogue with batch number and expiry date on every unit; stock-in/receiving by batch; FEFO dispensing logic; low-stock and near-expiry alerts (30/60/90 days); POS with M-Pesa/mobile money/cash; offline-first operation with sync when online; daily sales and expiry reports; reorder suggestions; regulatory compliance records (PPB/NDA controlled-drug registers where applicable); phone or tablet device; barcode scanning optional; staff training on data entry.
+
+**Estimated budget:** Lean prototype: spreadsheet/manual tracking at one shop — near zero. Software: existing platforms charge setup ~KES 6,500 + KES 1,500–4,500/month (Kenya), UGX 58,000/month (Uganda), TZS 10,000–15,000/month (Tanzania), N19,800/month (Nigeria). A custom lightweight MVP: modest build cost plus device (tablet/phone), barcode scanner, SMS/airtime for alerts. Main cost: staff data-entry time and consistency.
+
+**Competitors and prior art:** PharmaYetu, Upharmasys, DawaSoft, PharmaTrack, Imforia, FK Pharmacy, SmartPharm, Pharmasoft, plus manual ledgers/notebooks (the main informal competition). Differentiation: expiry-focus for very small drug shops, offline-first, SMS alerts, low price point, local-language support, simple reorder suggestions.
+
+**Revenue model:** Per-shop monthly subscription, one-time setup fee, SMS alert fees, premium reorder suggestions, supplier/wholesaler integration fees.
+
+**Risk mitigation:** Keep data entry minimal (batch + expiry at receiving); FEFO at the till prevents expired sales; clear alert thresholds; offline-first so connectivity doesn't block sales; regulatory compliance for controlled-drug records.
+
+**Next experiment:** Track one drug shop's inventory for one month; measure expired stock avoided, time saved vs. manual logs, and owner willingness to pay a monthly subscription.
+
+---
+
+## 39. Bicycle repair and parts subscription for delivery riders
 
 ---
 
@@ -1096,6 +1256,26 @@ Copy this for any new concept:
 
 **First prototype:** Buy one bale, sort and sell at one stall for two weeks; track sell-through rate, profit per item, and best categories.
 
+### Research data (as of 2026)
+
+**Market evidence:** Mitumba (second-hand clothes) is a large, resilient small-business category in Kenya and the wider East African Community. Swift Pesa (2025): two entry models — kuchagua (hand-picking single items, KSh 1,000–10,000 capital) or bale-based trading (full bales KSh 7,000–35,000+ depending on grade/category). A 1-bale startup estimate: medium-grade bale KSh 20,000, transport KSh 3,500, stall rent deposit KSh 10,000, cleaning/detergents KSh 2,500, sorting supplies KSh 5,000, packaging KSh 2,000, marketing KSh 3,000, working capital KSh 5,000, misc KSh 2,000 → total ~KSh 53,000. BusinessPlans.co.ke (2026): test with ~KSh 5,000 via kuchagua; bale estimates below KSh 10,000 to KSh 30,000+; price in tiers; major Nairobi sourcing market Gikomba (Kongomea/Kibuye for Mombasa/Kisumu). Money.ke: business plan with KES 80,000 initial capital (rent KES 10k–20k/month, inventory KES 30k–40k for 1–2 Grade A bales, licenses KES 5k–10k, transport KES 5k, marketing KES 5k–10k), projecting monthly sales KES 50k–100k, expenses KES 30k–50k, profit KES 20k–50k. Indetexx (2026): bales 45 kg/100 kg from UK/Canada/USA/Germany/Australia/South Korea/China; sorting by category and grade (e.g., "Children Winter – Grade A", "Men's Shorts – Grade B") can yield 2–4x more profit selling individually vs. per bale. CEPR study (2026): Ghana is Africa's largest SHC importer; Kantamanto Market (Accra) receives ~15 million garments/week; estimated waste 2–40% contested; traders buy sealed bales they cannot inspect, bearing unsellable-item cost — quality uncertainty is a real cost. Mitumba Association of Kenya: modernized sorting centres are crucial for the EAC SHC sector's growth.
+
+**Requirements:** Bale supplier (local market like Gikomba or importer), bale grading knowledge, sorting tables/bins, cleaning supplies (detergent, steamer), tags/labels, stall or selling space, display racks/hangers, packaging (plastic bags), mobile money/cash handling, records (cost per bale, sellable pieces, avg sale price, days-to-sell), hygiene handling, awareness of import regulations on second-hand clothing.
+
+**Estimated budget:** Very low entry: KSh 5,000–10,000 (kuchagua/hand-pick). One-bale stall: ~KSh 53,000. Larger: KES 80,000 (inventory + rent + licenses). Recurring: bale restocking, stall rent, transport, cleaning supplies. Key risk: bale quality uncertainty — calculate cost per sellable piece, not per bale.
+
+**Competitors and prior art:** Gikomba/Kongomea/Kibuye bale sellers, mitumba stalls and hawkers, online resale (WhatsApp/Instagram/TikTok), new cheap clothing imports (indirect), local tailors (indirect). Differentiation: careful sorting/grading, hygiene/cleaning, curated online listings for premium items, bundle pricing, consistent stock, reliable sourcing.
+
+**Revenue model:** Per-piece markup, bundle sales (3–5 items), wholesale to smaller traders, premium branded items individually, cleaning/repair value-add.
+
+**Risk mitigation:** Start with kuchagua or one bale to learn sell-through before full-bale risk; inspect bale grade reputation; calculate cost per sellable piece; price in tiers with exit price for slow items; keep working capital for restocking; handle hygiene.
+
+**Next experiment:** Buy one bale, sort and sell at one stall for two weeks; track sell-through rate, profit per item, best categories, and whether sorted individual pricing beats bale pricing.
+
+---
+
+## 43. Community biogas digester
+
 ---
 
 ## 43. Community biogas digester for cooking fuel
@@ -1118,6 +1298,26 @@ Copy this for any new concept:
 **Cons and risks:** High upfront cost, regular feedstock required, gas pressure variability, safety (gas leaks), technical skill to build and maintain.
 
 **First prototype:** Build one small digester at one household or school; measure gas output, cooking hours per day, and maintenance needs over one month.
+
+### Research data (as of 2026)
+
+**Market evidence:** Domestic biogas is a proven clean-cooking technology in East Africa, but upfront cost and feedstock requirements are key adoption barriers. The Africa Biogas Partnership Program (ABPP) review (PMC) of Kenya, Tanzania, Ethiopia: households recover biodigester investment in 2–3 years; a 6 m³ digester payback ~2.3 years; investment ~USD 700, annual maintenance USD 30, annual cost reductions USD 220 (fuel USD 120, fertilizer USD 40, food USD 60), plus USD 120 added revenue from increased agricultural production. Bioslurry income/fertilizer savings often exceed fuel savings financially. Modified fixed-dome designs reduced cement by 4 bags and bricks by 200 (~USD 83, ~17% of installation cost); Kenya and Tanzania construction cost reduced ~25%. Seven Kenyan companies offer tubular plug-flow and fixed-dome models from heavy-duty plastic, eligible for ABPP results-based incentives. Households need ~2 cows minimum to cook properly. IRENA notes barriers: limited awareness, high initial installation cost, lack of skilled labour, inadequate government support, feedstock availability. South African case study: average 6 m³ micro-digester cost R50,000–R60,000 (US$3,000–4,000), plus stove/fittings R500–R6,000; financial accessibility remains a limitation for poor communities. Springer techno-economic analysis (Malawi): 6 m³ reactor with cow dung + maize residue preferable for small farms; 12 m³ with 6 cows co-digestion had positive NPV US$8,962; feasibility depends heavily on electricity prices and construction costs. Common digester types: floating drum, Chinese fixed dome (most popular in South Africa — durable ~20 yr, cheap, local materials, but needs skilled masonry, airtight construction, prone to cracking), plug flow.
+
+**Requirements:** Digester tank (fixed dome, plug flow, or prefabricated tubular); feedstock (cow dung ~2 cows minimum, or food waste + water, 1:1 water ratio); inlet/outlet, gas outlet, gas storage (dome or bag), gas stove, piping, valves, sulphur trap, pressure meter; skilled mason for airtight construction; water supply; training for operation and maintenance; feedstock sourcing plan; safety (gas leaks, pressure fluctuations); bioslurry handling/use as fertilizer.
+
+**Estimated budget:** USD ~700 for a 6 m³ digester (ABPP, East Africa), reduced ~17–25% with modified designs; R50,000–R60,000 (South Africa) plus stove; annual maintenance ~USD 30. Payback 2–3 years from fuel, fertilizer, and food savings plus bioslurry revenue. Upfront cost is the main barrier; financing or results-based incentives help affordability.
+
+**Competitors and prior art:** ABPP-supported biodigester companies (Kenya/Tanzania/Ethiopia), Puxin/Lanneng/Wusi stoves (imported), Lotus III stoves (local), firewood and charcoal (indirect cooking fuels), LPG (indirect), solar cookers (indirect). Differentiation: free cooking fuel after installation, bioslurry fertilizer, payback in 2–3 years, community/school scale, installation + maintenance service.
+
+**Revenue model:** Digester installation fee, maintenance contract, biogas stove sale, bioslurry fertilizer sale, optional gas metering for community systems.
+
+**Safety notes:** Gas leaks and pressure fluctuations; airtight construction critical (skilled mason); gas-line condensate traps; sulphur trap; safe stove installation; ventilation.
+
+**Next experiment:** Build one small digester at one household or school; measure gas output, cooking hours per day, feedstock needed, maintenance needs over one month; verify payback assumptions.
+
+---
+
+## 44. Phone-screen protector and accessory vending machine
 
 ---
 
@@ -1211,6 +1411,24 @@ Copy this for any new concept:
 
 **First prototype:** Mill and package grain for 10–20 customers for one month; track kg milled, revenue per kg, and customer return rate.
 
+### Research data (as of 2026)
+
+**Market evidence:** Posho/maize milling is a well-established small business in Kenya and Uganda. Kenya posho mill startup capital: KSh 150,000–400,000 minimum (machine KSh 75,000–200,000, plus rent, transport, power/fuel); a detailed breakdown: machine (Grade 1 & 2) KSh 130,000, rent 1–2 months KSh 10,000–30,000, licenses KSh 10,000–30,000, installation KSh 10,000, setup items KSh 10,000 → total ~KSh 170,000–250,000. Machine types: economy posho mill KSh 90,000–205,000; roller mill ~KSh 245,000; maize crusher ~KSh 165,000; Grade 1+Grade 2 combined electric mill ~KSh 123,000 (2026); electric-diesel ~KSh 160,000–170,000; basic Grade 2 electric KSh 60,000–75,000. Daily running: diesel engine ≥2 litres/day (KSh 350), electric ≥5 units (KSh 150), maize ≥2 bags/day (KSh 8,000–9,000), engine oil KSh 350/month, servicing KSh 500/month, rent varies. Uganda: Enterprise Uganda says maize milling possible with under US$1,000 (Shs 3.5M) using a locally fabricated Katwe machine milling ~200 kg/day; maize flour sells ~Shs 1,000/kg → 200 kg/day = Shs 200,000/day income, ~Shs 5.6M/month; over 1,000 traders and ~600 millers in Uganda. UNIDO: cereal processing suits small-scale Uganda business (raw materials available, equipment affordable), but competition is strong; profitability needs quality, good packaging, GMP/HACCP food-safety practices. Worked example: mill cost USh 360,000/day at 1800 kg/day full capacity selling USh 300/kg → USh 180,000/day profit; at 1000 kg/day → USh 60,000/day loss, showing utilization/cost control is critical. Key success factors: adequate grain supply (buy at harvest), machine capacity matching demand, power reliability, maintenance, food-safety/hygiene for packaged flour.
+
+**Requirements:** Milling machine (posho mill, electric or diesel, matched capacity), premises with power/wiring or diesel supply, weighing scale, packaging materials/bags, installation, business/trade license and food-handling permits, initial maize/grain stock, engine oil and servicing plan, spare parts supplier, storage for grain and flour, hygiene/food-safety setup (GMP) if packaging flour for sale.
+
+**Estimated budget:** KSh 170,000–250,000 (Kenya small posho mill), or under US$1,000 (Uganda locally fabricated machine). Recurring: grain stock (buy at harvest for best price), power/fuel, maintenance, rent, licenses. Profit highly dependent on daily utilization (kg milled/day) and flour price vs. milling cost.
+
+**Competitors and prior art:** Existing posho mills, large commercial flour mills (indirect), hammer/roller mills, home pounding (indirect). Differentiation: packaging + branding, consistent quality, sifted Grade 1 flour, reliable schedule, convenient location, optional delivery.
+
+**Regulatory/food-safety:** Food-safety laws (Codex, HACCP, GMP) mandatory for commercial packaged flour; hygiene practices; licensing.
+
+**Next experiment:** Mill and package grain for 10–20 customers for one month; track kg milled, revenue per kg, cost per kg (power/fuel/grain/labour), and customer return rate to validate unit economics.
+
+---
+
+## 48. Goat and sheep fattening and sale service
+
 ---
 
 ## 48. Goat and sheep fattening and sale service
@@ -1233,6 +1451,26 @@ Copy this for any new concept:
 **Cons and risks:** Animal disease, mortality, feed cost and availability, market price fluctuation, theft, space and housing.
 
 **First prototype:** Buy and fatten 5–10 goats for one cycle; track weight gain, feed cost, mortality, and sale margin vs. purchase price.
+
+### Research data (as of 2026)
+
+**Market evidence:** Goat and sheep fattening (short-term intensive feeding to slaughter weight) is a practiced commercial model across Burkina Faso, Ethiopia, Kenya, Mali, and Nigeria. IITA/Propas: reduces fattening from ~18 months (grazed) to ~3 months with proper selection and concentrated diet; enables ~3 rounds/year targeting festive seasons (Eid-Mubarak, Easter, Christmas); young adult males (castrated) fatten faster; commercial startup needs improved breeds at favorable prices, feed/supplements, shelter/troughs, health services. Example economics: young animal US$80, finished in 4 months at ~US$70 feed cost, sells ~US$230 → >50% net return in a few months, repeatable 3x/year once facilities secured. Ethiopian data: lamb purchase prices 550–1,500 Birr/sheep; fattened animals sell higher (e.g., weaned at 600 Birr → sell 1,500 Birr; or 800 → 2,500); average profit ~446 Birr/animal (claims vary widely). Langston University: short-term intensive feeding economically more feasible than long maintenance feeding; value per kg live weight increases with weight and condition; profit factors = days in feedlot, initial weight, growth rate, feed price, feed efficiency, start-vs-finished price difference; expenses = transport, interest, labour, mortality/vet, pretreatment. Ghana Tamale study: 90% of fatteners male, 80% self-finance, 86.3% sell to middlemen/butchers, price set by bargaining/visual condition scoring; challenges = feed/water scarcity, disease/mortality, theft, accidents; lack of consistent regular market.
+
+**Requirements:** Improved-breed young animals (goats/sheep) at favorable prices, shelter/housing and troughs, concentrated feed + supplements, water, veterinary/health services, weighing scale or condition scoring for pricing, transport, market access (butchers, middlemen, festive-season buyers), feed storage, theft protection, records per animal (purchase cost, feed cost, weight gain, mortality, sale price).
+
+**Estimated budget:** Per animal: purchase US$80 + 4-month feed US$70 = US$150 cost, sale US$230 → ~US$80 margin (>50% return). For 5–10 animals prototype: ~US$750–1,500 plus shelter/troughs. Ethiopian per-animal profit ~446 Birr (variable). Startup moderate; reduced labor; minimal risks vs. other livestock models; no special licensing beyond normal livestock rearing (peri-urban/urban conditions may apply near slaughterhouses).
+
+**Competitors and prior art:** Small ruminant fattening operations in Ethiopia/Kenya/Nigeria/Mali/Burkina Faso, backyard and commercial feedlots, export slaughterhouses, live-animal markets, butchers/middlemen, grazing-based fattening (indirect), imported meat (indirect). Differentiation: short 3-month cycle, festive-season timing, controlled feeding/weight tracking, reliable buyer relationships.
+
+**Revenue model:** Sale margin per animal (finished vs. purchase price), feeding/housing fee for customer-owned animals, festive-season premium pricing.
+
+**Risk mitigation:** Source healthy animals, castrate males for faster fattening, control feed quality/cost, veterinary care to reduce mortality, secure housing against theft, line up buyers (butchers/middlemen) before finishing, track weight gain and condition scoring, align sales with festive demand.
+
+**Next experiment:** Buy and fatten 5–10 goats for one cycle; track weight gain, feed cost, mortality, and actual sale margin vs. purchase price; confirm buyer prices before starting.
+
+---
+
+## 49. Water purification and refill station
 
 ---
 
@@ -1295,6 +1533,22 @@ Copy this for any new concept:
 **Cons and risks:** Payment disputes, quality of work, no-shows, safety, trust, existing word-of-mouth hiring is free.
 
 **First prototype:** Run a SMS-based board for one trade (e.g., carpenters) in one neighborhood for one month; track gigs posted, matches made, and completions.
+
+### Research data (as of 2026)
+
+**Research status:** No specific published case study was located for this exact concept in this session. The adjacent evidence base is informal-labor matching: word-of-mouth and community WhatsApp groups are the dominant, zero-cost channel for hiring carpenters, masons, cleaners, and drivers in East African neighborhoods, which is the main competitor. A paid gig board must demonstrate clear value beyond free word-of-mouth (vetting, matching speed, payment assurance, ratings). Mobile money and USSD/SMS work on feature phones, lowering the barrier for workers; trust and payment-dispute handling are the central operational risks. Treat this idea as exploratory: validate whether employers will pay a per-gig commission when informal referrals are free.
+
+**Requirements:** Worker registration (skills, location, availability) via SMS/USSD; employer gig posting (phone or web); SMS/voice match notifications; worker confirmation; cash or mobile-money payment with confirmation on both sides; ratings on both sides; gig and completion records; dispute-resolution process; minimum viable scope = one trade, one neighborhood.
+
+**Estimated budget:** Lean SMS/USSD prototype: low cost (mainly airtime/SMS gateway fees and labor to run matches manually or semi-automated). No custom hardware. Key cost: operator time to vet, match, and follow up.
+
+**Competitors and prior art:** Informal word-of-mouth and community WhatsApp groups (free, dominant), existing job boards and classifieds, casual labor agents/gang leaders, platform ride-hailing/delivery apps (adjacent). Differentiation: hyper-local neighborhood focus, one-trade specialization, SMS for feature phones, ratings/trust layer.
+
+**Revenue model:** Per-gig commission, worker subscription, featured-listing fee — only viable if employers demonstrate willingness to pay above free referrals.
+
+**Risk mitigation:** Start with one trade and one neighborhood; do not build an app before validating paid matching; handle payment disputes clearly; verify worker identity; keep fees low enough to beat informal alternatives.
+
+**Next experiment:** Run a SMS-based board for one trade (e.g., carpenters) in one neighborhood for one month; track gigs posted, matches made, completions, and whether either side will pay a commission.
 
 ---
 
