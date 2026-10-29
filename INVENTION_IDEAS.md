@@ -573,3 +573,204 @@ Copy this for any new concept:
 - **Decision:** Explore / Prototype / Validate / Pause
 
 *Safety note:* Any product involving mains electricity, LPG, pumps, batteries, medical/pharmaceutical storage, water safety or security-critical functions needs appropriately qualified design and testing. A concept description is not a substitute for a safety review.
+
+---
+
+## 23. School-fee payment and receipt ledger
+
+**Concept:** A simple offline-first mobile/web tool for schools to record fee payments, generate receipts, and track outstanding balances per student.
+
+**How it works**
+- Staff enter student names, fee terms, and amounts due.
+- Payments are recorded as cash, mobile money, or bank transfer.
+- A receipt is printed or shown on screen; balances update automatically.
+- Reports show paid, partial, and unpaid students per class or term.
+- Works offline; data syncs when internet is available.
+
+**Customers:** Nursery, primary, and secondary schools; daycare centers; tuition centers.
+
+**Revenue:** Per-school subscription, per-student term fee, receipt-book printing, training and support.
+
+**Pros:** Schools run every term; pain is recurring and predictable; low hardware requirement.
+
+**Cons and risks:** Parents may resist digital records; existing paper ledgers are free; data privacy and school-record regulations apply; adoption requires staff training.
+
+**First prototype:** A spreadsheet or simple app tracking one class's fees for one term; compare time spent and errors vs. paper.
+
+---
+
+## 24. Agro-inputs bulk-buying and resale cooperative platform
+
+**Concept:** A group-purchasing tool that lets small farmers pool orders for seeds, fertilizer, and feed to get wholesale prices, with a resale margin covering logistics.
+
+**How it works**
+- Farmers join a buying group for a specific input and season.
+- The aggregator places one bulk order with a supplier at wholesale price.
+- Members pay a small markup covering transport, handling, and platform fee.
+- Inputs are distributed at a local pickup point; records track who paid and who collected.
+- Works via SMS or a simple app where connectivity is poor.
+
+**Customers:** Smallholder farmers, farming groups, agro-dealers.
+
+**Revenue:** Markup on inputs, delivery fee, platform subscription for group leaders.
+
+**Pros:** Real cost savings for members; repeat purchase every season; low inventory risk if orders are prepaid.
+
+**Cons and risks:** Input quality and counterfeit products; transport and storage; farmer trust; seasonal demand; regulation of agrochemical sales.
+
+**First prototype:** Organize one prepaid bulk order for one input with 10–20 farmers and track savings vs. retail price.
+
+---
+
+## 25. Solar lantern and phone-charger rental kiosk
+
+**Concept:** Rent charged solar lanterns and power banks by the day or week at markets, bus stations, and off-grid villages.
+
+**How it works**
+- A lockable cabinet holds charged lanterns and power banks.
+- Customers pay a small deposit and rental fee via cash or mobile money.
+- They receive a charged unit and return it by the agreed time.
+- A second cabinet charges returned units using solar panels or grid power.
+- A ledger tracks units, deposits, and overdue returns.
+
+**Customers:** Off-grid households, market vendors, boda-boda riders, event attendees.
+
+**Revenue:** Daily/weekly rental fees, deposits on unreturned units, charging fees for privately owned devices.
+
+**Pros:** Low upfront cost for customers; recurring revenue; works without grid power.
+
+**Cons and risks:** Theft, damage, non-return, battery wear, charging time, security of cash/mobile money.
+
+**First prototype:** Deploy one cabinet with 20 units at one market; track rentals, returns, and losses for one month.
+
+---
+
+## 26. Mobile-phone repair and parts marketplace for technicians
+
+**Concept:** A parts-sourcing and troubleshooting platform that connects independent phone repair technicians with suppliers and a shared repair knowledge base.
+
+**How it works**
+- Technicians search for screens, batteries, chargers, and ICs by phone model.
+- Orders are consolidated and shipped from suppliers to a local pickup or technician address.
+- A symptom-to-parts guide helps technicians order the right part on the first try.
+- Ratings on suppliers and parts reduce trial-and-error and returns.
+- Optional escrow holds payment until the part is received.
+
+**Customers:** Phone repair shops, freelance technicians, electronics students.
+
+**Revenue:** Parts markup, supplier listing fee, premium parts catalog, advertising.
+
+**Pros:** High repair volume; technicians buy parts weekly; reduces downtime waiting for parts.
+
+**Cons and risks:** Counterfeit parts, returns and warranties, logistics, supplier reliability, competition from existing markets.
+
+**First prototype:** Source one popular part for one phone model for 5–10 technicians and measure order accuracy and delivery time.
+
+---
+
+## 27. Event seating and ticketing for small venues
+
+**Concept:** A simple ticketing and seat-assignment tool for churches, weddings, funerals, and community events that prints tickets and manages entry.
+
+**How it works**
+- Organizers create an event with ticket types, prices, and seat maps or general admission.
+- Tickets are sold online, via mobile money, or at the door.
+- A printed or SMS ticket is issued with a unique code.
+- Staff scan or check codes at entry to prevent duplicates.
+- Reports show sales, attendance, and revenue per event.
+
+**Customers:** Event organizers, pastors, wedding planners, venue owners, promoters.
+
+**Revenue:** Per-ticket fee, setup fee, premium seat-map feature, printing.
+
+**Pros:** Events happen constantly; organizers already collect money manually; reduces ticket fraud.
+
+**Cons and risks:** Cash handling, no-shows, internet outages at venue, existing free tools, price sensitivity.
+
+**First prototype:** Run ticketing for one church service or community event with 50–100 tickets; compare collection speed and reconciliation vs. manual.
+
+---
+
+## 28. Laundry pickup, wash, and delivery subscription
+
+**Concept:** A scheduled laundry service for households, hostels, and small offices with pickup, washing, folding, and delivery.
+
+**How it works**
+- Customers subscribe to weekly or biweekly pickup and delivery.
+- A driver collects laundry in labeled bags and returns clean, folded items.
+- Pricing is per kilo or per bundle; subscriptions are prepaid via mobile money.
+- A route planner minimizes driver time and fuel.
+- Damaged or lost items are tracked and compensated per policy.
+
+**Customers:** Students in hostels, working professionals, small offices, salons.
+
+**Revenue:** Per-kilo or per-bundle fee, subscription discount, express-service premium.
+
+**Pros:** Recurring weekly revenue; no retail space needed initially; scalable with more drivers.
+
+**Cons and risks:** Lost or damaged clothes, driver reliability, detergent and utility costs, competition from self-service laundromats.
+
+**First prototype:** Serve 5–10 customers weekly for one month using a laundromat; measure time per order, cost per kilo, and customer retention.
+
+---
+
+## 29. Used-phone grading and trade-in kiosk
+
+**Concept:** A kiosk or pop-up that buys used phones, grades them by condition, and resells or refers them to refurbishers.
+
+**How it works**
+- Customer brings a phone; an app or checklist grades screen, battery, buttons, cameras, and IMEI status.
+- An instant offer is shown based on grade and market price.
+- If accepted, the phone is purchased for cash or mobile money.
+- Phones are sorted: resell as-is, refurbish, or recycle parts.
+- Records track purchase, condition, and resale for accountability.
+
+**Customers:** People selling old phones, buyers wanting affordable used phones, refurbishers.
+
+**Revenue:** Buy-sell margin, refurbishment fee, parts sales, warranty on resold phones.
+
+**Pros:** High-value items; steady supply of used phones; margins on grading and trust.
+
+**Cons and risks:** Stolen phones, counterfeit devices, battery safety, testing accuracy, price volatility.
+
+**First prototype:** Manually grade and buy 5–10 used phones, resell them, and track actual margin vs. offer price.
+
+---
+
+## 30. Local-language audio content marketplace for farmers
+
+**Concept:** A platform that records and sells short farming advice in local languages via audio, accessible by basic phone or app.
+
+**How it works**
+- Experts record 2–5 minute tips on planting, pest control, weather, and market prices in local languages.
+- Farmers call a number or use an app to play tips; content is organized by crop and season.
+- Pay-per-tip or weekly subscription via mobile money.
+- New tips are added weekly; popular content rises to the top.
+- Works on feature phones via USSD/voice where smartphones are rare.
+
+**Customers:** Smallholder farmers, extension workers, agro-dealers.
+
+**Revenue:** Per-call charge, weekly subscription, sponsored tips from input companies.
+
+**Pros:** Works on any phone; literacy not required; high relevance; repeat usage.
+
+**Cons and risks:** Content production cost, language coverage, mobile money transaction fees, competition from free radio programs.
+
+**First prototype:** Record 10 tips in one language for one crop; offer via a phone line or WhatsApp group to 20 farmers; measure replay rate and willingness to pay.
+
+---
+
+## Updating the comparison table
+
+Add these rows to the comparison table when prioritizing:
+
+| Idea | Prototype cost tendency | Technical difficulty | Potential revenue model |
+|---|---|---|---|
+| School-fee ledger | Low | Low–medium | Subscription + per-student |
+| Agro-inputs bulk-buying | Low | Low | Markup + delivery |
+| Solar lantern rental | Medium–high | Medium | Rental + deposit |
+| Phone-parts marketplace | Low | Medium | Parts markup + listing |
+| Event ticketing | Low | Low | Per-ticket fee |
+| Laundry subscription | Low | Low–medium | Per-kilo + subscription |
+| Used-phone trade-in | Low–medium | Low | Buy-sell margin |
+| Audio farming content | Low | Low–medium | Per-call + subscription |
