@@ -1019,10 +1019,6 @@ Copy this for any new concept:
 
 ## 36. Insecticide-treated net subscription and replacement reminder
 
----
-
-## 36. Insecticide-treated net subscription and replacement reminder
-
 **Concept:** A subscription that delivers replacement mosquito nets on schedule and sends SMS reminders before the old net loses effectiveness.
 
 **How it works**
@@ -1057,10 +1053,6 @@ Copy this for any new concept:
 **Risk mitigation:** Source WHO-prequalified LLINs; verify insecticide efficacy; manage customer recall via SMS; price to cover net + logistics; consider NGO/health-partner subsidies; avoid competing directly with free mass campaigns in the same area.
 
 **Next experiment:** Sell or subscribe 20–50 nets in one village with SMS reminders; measure collection rate, repeat subscription after one year, and whether customers will pay full replacement cost vs. need subsidy.
-
----
-
-## 37. LPG cylinder exchange and level monitoring
 
 ---
 
@@ -1139,30 +1131,6 @@ Copy this for any new concept:
 **Risk mitigation:** Stock fast-moving parts only initially; verify part quality; rider payment reliability (mobile money prepayment or weekly collection); mechanic reliability; weather-proof service point; track downtime avoided as the value proof.
 
 **Next experiment:** Serve 10–15 riders at one depot weekly for one month; track repairs done, parts used, subscription renewal rate, and downtime avoided vs. informal repair.
-
----
-
-## 42. Second-hand clothes (mitumba) sorting and resale stall
-
-### Research data (as of 2026)
-
-**Market evidence:** Pharmacy inventory and expiry-management software is an established category in East Africa. PharmaYetu (Tanzania, Kenya, Uganda) is trusted by 500+ pharmacies, tracks 4,000+ products per pharmacy, offers smart inventory with batch/expiry tracking and automatic low-stock alerts, expiry and reorder alerts, POS, mobile-money ready, offline-first, Swahili/English. Upharmasys (Kampala-based) serves Uganda, Kenya, Tanzania with batch/expiry tracking, FEFO (first-expired-first-out), low-stock and near-expiry alerts, mobile money, offline operation. DawaSoft POS (Kenya) trusted by 200+ pharmacies, expiry date tracking with 30/60/90-day automatic alerts, colour-coded dashboard, setup fee KES 6,500, Starter KES 1,500/month (single-counter chemists, up to 1,000 items, M-Pesa integration). PharmaTrack (Kenya) from KES 1,500/month, FEFO dispensing, 90-day expiry alerts, M-Pesa STK push, offline-first, PPB compliance paperwork. Imforia (Tanzania) batch/expiry tracking across branches, low-stock flags, push notifications, multi-branch. FK Pharmacy (Tanzania) TZS 10,000–15,000/month, expiry alerts, barcode scanning. SmartPharm (Uganda) Basic UGX 58,000/month, offline till 48 hours, batch/expiry tracking, first-expiry sells first, NDA registers, expiry report with value at cost. Pharmasoft (Nigeria) N19,800/month, expiry date and automatic notification, reorder levels. These show a real market: small pharmacies/drug shops lose money to expired stock and stockouts, and existing software is sold at KES 1,500–4,500/month (Kenya), UGX 58,000/month (Uganda), TZS 10,000–15,000/month (Tanzania), N19,800/month (Nigeria), with setup fees around KES 6,500.
-
-**Requirements:** Product catalogue with batch number and expiry date on every unit; stock-in/receiving by batch; FEFO dispensing logic; low-stock and near-expiry alerts (30/60/90 days); POS with M-Pesa/mobile money/cash; offline-first operation with sync when online; daily sales and expiry reports; reorder suggestions; regulatory compliance records (PPB/NDA controlled-drug registers where applicable); phone or tablet device; barcode scanning optional; staff training on data entry.
-
-**Estimated budget:** Lean prototype: spreadsheet/manual tracking at one shop — near zero. Software: existing platforms charge setup ~KES 6,500 + KES 1,500–4,500/month (Kenya), UGX 58,000/month (Uganda), TZS 10,000–15,000/month (Tanzania), N19,800/month (Nigeria). A custom lightweight MVP: modest build cost plus device (tablet/phone), barcode scanner, SMS/airtime for alerts. Main cost: staff data-entry time and consistency.
-
-**Competitors and prior art:** PharmaYetu, Upharmasys, DawaSoft, PharmaTrack, Imforia, FK Pharmacy, SmartPharm, Pharmasoft, plus manual ledgers/notebooks (the main informal competition). Differentiation: expiry-focus for very small drug shops, offline-first, SMS alerts, low price point, local-language support, simple reorder suggestions.
-
-**Revenue model:** Per-shop monthly subscription, one-time setup fee, SMS alert fees, premium reorder suggestions, supplier/wholesaler integration fees.
-
-**Risk mitigation:** Keep data entry minimal (batch + expiry at receiving); FEFO at the till prevents expired sales; clear alert thresholds; offline-first so connectivity doesn't block sales; regulatory compliance for controlled-drug records.
-
-**Next experiment:** Track one drug shop's inventory for one month; measure expired stock avoided, time saved vs. manual logs, and owner willingness to pay a monthly subscription.
-
----
-
-## 39. Bicycle repair and parts subscription for delivery riders
 
 ---
 
@@ -1274,10 +1242,6 @@ Copy this for any new concept:
 
 ---
 
-## 43. Community biogas digester
-
----
-
 ## 43. Community biogas digester for cooking fuel
 
 **Concept:** A small biogas digester that converts kitchen and farm waste into cooking gas for households or small institutions.
@@ -1314,10 +1278,6 @@ Copy this for any new concept:
 **Safety notes:** Gas leaks and pressure fluctuations; airtight construction critical (skilled mason); gas-line condensate traps; sulphur trap; safe stove installation; ventilation.
 
 **Next experiment:** Build one small digester at one household or school; measure gas output, cooking hours per day, feedstock needed, maintenance needs over one month; verify payback assumptions.
-
----
-
-## 44. Phone-screen protector and accessory vending machine
 
 ---
 
@@ -1429,10 +1389,6 @@ Copy this for any new concept:
 
 ## 48. Goat and sheep fattening and sale service
 
----
-
-## 48. Goat and sheep fattening and sale service
-
 **Concept:** A service that buys young goats or sheep, fattens them on feed and forage, and sells them at peak weight for meat or festivals.
 
 **How it works**
@@ -1467,10 +1423,6 @@ Copy this for any new concept:
 **Risk mitigation:** Source healthy animals, castrate males for faster fattening, control feed quality/cost, veterinary care to reduce mortality, secure housing against theft, line up buyers (butchers/middlemen) before finishing, track weight gain and condition scoring, align sales with festive demand.
 
 **Next experiment:** Buy and fatten 5–10 goats for one cycle; track weight gain, feed cost, mortality, and actual sale margin vs. purchase price; confirm buyer prices before starting.
-
----
-
-## 49. Water purification and refill station
 
 ---
 
