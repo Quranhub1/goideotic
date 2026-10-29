@@ -825,7 +825,7 @@ These concepts extend the notebook. They are deliberately scoped around specific
 
 ## Quick shortlist: best candidates for a low-cost first test
 
-These are preliminary judgments based on prototype simplicity, not proven demand.
+These are preliminary judgments based on prototype simplicity, not proven demand. This shortlist draws mainly from the earlier concepts and optimizes for a cheap first prototype; it is not an overall ranking of all 67 ideas and should not be compared directly with the later, goal-specific ranking of ideas 53–67.
 
 | Candidate | Why it is a good first experiment | Cheapest credible first test |
 |---|---|---|
@@ -1430,7 +1430,9 @@ The best choice depends on your available tools, budget and access to customers.
 
 ---
 
-# Opportunity ranking for the stated goal
+# Opportunity ranking within ideas 53–67
+
+**Scope:** This ranking compares only the 15 concepts in this research batch; it does not rank all 67 entries in the notebook. It uses a different objective from the earlier quick shortlist.
 
 **Goal:** Earn money as soon as possible, with a very small starting budget, using existing tools/materials, starting locally and retaining global potential.
 
