@@ -9,6 +9,6 @@ See **[INVENTION_IDEAS.md](INVENTION_IDEAS.md)** for the full notebook of **67 n
 ## How to use this notebook
 
 - Treat concepts and rankings as hypotheses, not proof of novelty, patentability, customer demand, or guaranteed profit.
-- The earlier “quick shortlist” prioritizes ease of prototyping; the later “Opportunity ranking” prioritizes getting a paying customer quickly with a very small budget. Different goals can produce different rankings.
+- The earlier “quick shortlist” prioritizes ease of prototyping. The later “Opportunity ranking within ideas 53–67” compares only the newest 15 concepts and prioritizes getting a paying customer quickly with a very small budget; it is not a ranking of all 67 ideas. Different goals and scopes can produce different rankings.
 - Validate customer demand and willingness to pay before building. Compare existing alternatives, estimate all direct costs and founder hours, and check safety, legal and regulatory requirements before offering a service or product.
 - For the fastest low-budget test, sell a narrowly scoped service using existing tools first. Build software or custom hardware only after repeated paid demand shows which workflow needs automation.
